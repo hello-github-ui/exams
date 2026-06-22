@@ -1,0 +1,4875 @@
+{
+  "success": 428,
+  "failed": 0,
+  "skipped": 0,
+  "details": [
+    {
+      "source": "最新面试文档.pdf",
+      "category": "root-pdfs",
+      "pages": 361,
+      "text_chars": 172097,
+      "images": 256,
+      "status": "success"
+    },
+    {
+      "source": "阿里内部10万字总结java面试题和答案.pdf",
+      "category": "root-pdfs",
+      "pages": 266,
+      "text_chars": 220993,
+      "images": 117,
+      "status": "success"
+    },
+    {
+      "source": "JAVA核心知识点整理（283页，超级详细）.pdf",
+      "category": "root-pdfs",
+      "pages": 283,
+      "text_chars": 345187,
+      "images": 183,
+      "status": "success"
+    },
+    {
+      "source": "advanced-java.pdf",
+      "category": "root-pdfs",
+      "pages": 283,
+      "text_chars": 227983,
+      "images": 121,
+      "status": "success"
+    },
+    {
+      "source": "Note/kafka44知识点（基础+进阶+高阶）.pdf",
+      "category": "note/middleware",
+      "pages": 31,
+      "text_chars": 26257,
+      "images": 23,
+      "status": "success"
+    },
+    {
+      "source": "Note/腾讯篇.pdf",
+      "category": "note/company-interview",
+      "pages": 3,
+      "text_chars": 2747,
+      "images": 1,
+      "status": "success"
+    },
+    {
+      "source": "Note/MySQL高频面试题 10道.pdf",
+      "category": "note/database",
+      "pages": 3,
+      "text_chars": 1913,
+      "images": 1,
+      "status": "success"
+    },
+    {
+      "source": "Note/Zookeeper篇.pdf",
+      "category": "note/distributed",
+      "pages": 13,
+      "text_chars": 7220,
+      "images": 6,
+      "status": "success"
+    },
+    {
+      "source": "Note/Dubbo面试题二.pdf",
+      "category": "note/distributed",
+      "pages": 5,
+      "text_chars": 5239,
+      "images": 2,
+      "status": "success"
+    },
+    {
+      "source": "Note/MySQL面试专题03 .pdf",
+      "category": "note/database",
+      "pages": 10,
+      "text_chars": 7622,
+      "images": 1,
+      "status": "success"
+    },
+    {
+      "source": "Note/Zookeeper面试题 28道.pdf",
+      "category": "note/distributed",
+      "pages": 10,
+      "text_chars": 10473,
+      "images": 1,
+      "status": "success"
+    },
+    {
+      "source": "Note/Dubbo面试题一(41题).pdf",
+      "category": "note/distributed",
+      "pages": 7,
+      "text_chars": 4579,
+      "images": 12,
+      "status": "success"
+    },
+    {
+      "source": "Note/MySQL面试题 40道.pdf",
+      "category": "note/database",
+      "pages": 9,
+      "text_chars": 8433,
+      "images": 1,
+      "status": "success"
+    },
+    {
+      "source": "Note/Kafka面试题.pdf",
+      "category": "note/middleware",
+      "pages": 3,
+      "text_chars": 3844,
+      "images": 1,
+      "status": "success"
+    },
+    {
+      "source": "Note/Redis高频面试题 .pdf",
+      "category": "note/database",
+      "pages": 9,
+      "text_chars": 7851,
+      "images": 1,
+      "status": "success"
+    },
+    {
+      "source": "Note/BIO,NIO,AIO,Netty面试题 35道.pdf",
+      "category": "note/framework",
+      "pages": 29,
+      "text_chars": 26450,
+      "images": 47,
+      "status": "success"
+    },
+    {
+      "source": "Note/Redis面试题五.pdf",
+      "category": "note/database",
+      "pages": 5,
+      "text_chars": 2427,
+      "images": 1,
+      "status": "success"
+    },
+    {
+      "source": "Note/Dubbo服务框架面试题及答案.pdf",
+      "category": "note/distributed",
+      "pages": 15,
+      "text_chars": 6527,
+      "images": 8,
+      "status": "success"
+    },
+    {
+      "source": "Note/百度篇.pdf",
+      "category": "note/company-interview",
+      "pages": 6,
+      "text_chars": 3691,
+      "images": 2,
+      "status": "success"
+    },
+    {
+      "source": "Note/面试必备之乐观锁与悲观锁.pdf",
+      "category": "note/other",
+      "pages": 5,
+      "text_chars": 3292,
+      "images": 1,
+      "status": "success"
+    },
+    {
+      "source": "Note/MySQL面试专题02 .pdf",
+      "category": "note/database",
+      "pages": 6,
+      "text_chars": 8069,
+      "images": 1,
+      "status": "success"
+    },
+    {
+      "source": "Note/java面试题_消息中间件--RabbitMQ(20题).pdf",
+      "category": "note/middleware",
+      "pages": 5,
+      "text_chars": 5203,
+      "images": 5,
+      "status": "success"
+    },
+    {
+      "source": "Note/Java基础面试题 91道.pdf",
+      "category": "note/java-basics",
+      "pages": 34,
+      "text_chars": 33130,
+      "images": 10,
+      "status": "success"
+    },
+    {
+      "source": "Note/Java集合面试题 52道.pdf",
+      "category": "note/java-basics",
+      "pages": 28,
+      "text_chars": 30793,
+      "images": 15,
+      "status": "success"
+    },
+    {
+      "source": "Note/MySQL面试题（含答案）.pdf",
+      "category": "note/database",
+      "pages": 10,
+      "text_chars": 6950,
+      "images": 5,
+      "status": "success"
+    },
+    {
+      "source": "Note/Redis面试题四.pdf",
+      "category": "note/database",
+      "pages": 5,
+      "text_chars": 5947,
+      "images": 1,
+      "status": "success"
+    },
+    {
+      "source": "Note/Redis面试题三.pdf",
+      "category": "note/database",
+      "pages": 6,
+      "text_chars": 5199,
+      "images": 1,
+      "status": "success"
+    },
+    {
+      "source": "Note/美团篇.pdf",
+      "category": "note/company-interview",
+      "pages": 5,
+      "text_chars": 2748,
+      "images": 1,
+      "status": "success"
+    },
+    {
+      "source": "Note/Git常用命令面试题 60道.pdf",
+      "category": "note/devops",
+      "pages": 6,
+      "text_chars": 2983,
+      "images": 1,
+      "status": "success"
+    },
+    {
+      "source": "Note/大数据面试题 100道.pdf",
+      "category": "note/data-engineer",
+      "pages": 62,
+      "text_chars": 37748,
+      "images": 60,
+      "status": "success"
+    },
+    {
+      "source": "Note/JVM常见面试题指南.pdf",
+      "category": "note/jvm",
+      "pages": 15,
+      "text_chars": 10553,
+      "images": 11,
+      "status": "success"
+    },
+    {
+      "source": "Note/滴滴篇.pdf",
+      "category": "note/company-interview",
+      "pages": 1,
+      "text_chars": 500,
+      "images": 2,
+      "status": "success"
+    },
+    {
+      "source": "Note/Zookeeper面试题.pdf",
+      "category": "note/distributed",
+      "pages": 11,
+      "text_chars": 11992,
+      "images": 3,
+      "status": "success"
+    },
+    {
+      "source": "Note/SpringBoot面试题 30道.pdf",
+      "category": "note/framework",
+      "pages": 7,
+      "text_chars": 3978,
+      "images": 1,
+      "status": "success"
+    },
+    {
+      "source": "Note/Tomcat面试题 14道.pdf",
+      "category": "note/framework",
+      "pages": 8,
+      "text_chars": 11564,
+      "images": 1,
+      "status": "success"
+    },
+    {
+      "source": "Note/Redis面试题 70道.pdf",
+      "category": "note/database",
+      "pages": 24,
+      "text_chars": 21852,
+      "images": 11,
+      "status": "success"
+    },
+    {
+      "source": "Note/RabbitMQ消息中间件面试题.pdf",
+      "category": "note/middleware",
+      "pages": 5,
+      "text_chars": 7856,
+      "images": 1,
+      "status": "success"
+    },
+    {
+      "source": "Note/Spring面试题（含答案）.pdf",
+      "category": "note/framework",
+      "pages": 10,
+      "text_chars": 10307,
+      "images": 1,
+      "status": "success"
+    },
+    {
+      "source": "Note/Dubbo面试题 47道.pdf",
+      "category": "note/distributed",
+      "pages": 16,
+      "text_chars": 15329,
+      "images": 6,
+      "status": "success"
+    },
+    {
+      "source": "Note/SpringBoot面试题 44道.pdf",
+      "category": "note/framework",
+      "pages": 9,
+      "text_chars": 10173,
+      "images": 1,
+      "status": "success"
+    },
+    {
+      "source": "Note/MyBatis面试题 37道.pdf",
+      "category": "note/framework",
+      "pages": 16,
+      "text_chars": 18038,
+      "images": 5,
+      "status": "success"
+    },
+    {
+      "source": "Note/ElasticSearch面试题 30道.pdf",
+      "category": "note/data-engineer",
+      "pages": 13,
+      "text_chars": 12339,
+      "images": 12,
+      "status": "success"
+    },
+    {
+      "source": "Note/Redis面试题一.pdf",
+      "category": "note/database",
+      "pages": 10,
+      "text_chars": 9855,
+      "images": 1,
+      "status": "success"
+    },
+    {
+      "source": "Note/Redis面试题（含答案）.pdf",
+      "category": "note/database",
+      "pages": 10,
+      "text_chars": 9855,
+      "images": 1,
+      "status": "success"
+    },
+    {
+      "source": "Note/Nginx面试题 23道.pdf",
+      "category": "note/devops",
+      "pages": 13,
+      "text_chars": 11735,
+      "images": 3,
+      "status": "success"
+    },
+    {
+      "source": "Note/Linux面试题 50道.pdf",
+      "category": "note/devops",
+      "pages": 17,
+      "text_chars": 14661,
+      "images": 4,
+      "status": "success"
+    },
+    {
+      "source": "Note/MyBatis面试题一.pdf",
+      "category": "note/framework",
+      "pages": 7,
+      "text_chars": 7857,
+      "images": 1,
+      "status": "success"
+    },
+    {
+      "source": "Note/Memcache 面试题  23道.pdf",
+      "category": "note/database",
+      "pages": 9,
+      "text_chars": 10221,
+      "images": 1,
+      "status": "success"
+    },
+    {
+      "source": "Note/Mybatis面试题（含答案）.pdf",
+      "category": "note/framework",
+      "pages": 3,
+      "text_chars": 3382,
+      "images": 1,
+      "status": "success"
+    },
+    {
+      "source": "Note/Zookeeper面试题 20道.pdf",
+      "category": "note/distributed",
+      "pages": 6,
+      "text_chars": 5390,
+      "images": 1,
+      "status": "success"
+    },
+    {
+      "source": "Note/Spring面试题 75道.pdf",
+      "category": "note/framework",
+      "pages": 22,
+      "text_chars": 23432,
+      "images": 5,
+      "status": "success"
+    },
+    {
+      "source": "Note/Java异常面试题 33道.pdf",
+      "category": "note/java-basics",
+      "pages": 19,
+      "text_chars": 21914,
+      "images": 4,
+      "status": "success"
+    },
+    {
+      "source": "Note/Redis面试题  42道.pdf",
+      "category": "note/database",
+      "pages": 11,
+      "text_chars": 10948,
+      "images": 1,
+      "status": "success"
+    },
+    {
+      "source": "Note/Tomcat优化相关面试问题.pdf",
+      "category": "note/framework",
+      "pages": 10,
+      "text_chars": 7936,
+      "images": 1,
+      "status": "success"
+    },
+    {
+      "source": "Note/RabbitMQ面试题 22道.pdf",
+      "category": "note/middleware",
+      "pages": 11,
+      "text_chars": 11059,
+      "images": 9,
+      "status": "success"
+    },
+    {
+      "source": "Note/Nginx面试题一.pdf",
+      "category": "note/devops",
+      "pages": 3,
+      "text_chars": 2050,
+      "images": 1,
+      "status": "success"
+    },
+    {
+      "source": "Note/zookeeper面试专题.pdf",
+      "category": "note/distributed",
+      "pages": 11,
+      "text_chars": 7432,
+      "images": 7,
+      "status": "success"
+    },
+    {
+      "source": "Note/RabbitMQ 补充 6道.pdf",
+      "category": "note/middleware",
+      "pages": 9,
+      "text_chars": 7098,
+      "images": 9,
+      "status": "success"
+    },
+    {
+      "source": "Note/TCP，UDP，Socket，Http网络编程面试题 47道.pdf",
+      "category": "note/other",
+      "pages": 20,
+      "text_chars": 18430,
+      "images": 13,
+      "status": "success"
+    },
+    {
+      "source": "Note/京东篇.pdf",
+      "category": "note/company-interview",
+      "pages": 1,
+      "text_chars": 600,
+      "images": 1,
+      "status": "success"
+    },
+    {
+      "source": "Note/设计模式面试题 14道.pdf",
+      "category": "note/other",
+      "pages": 33,
+      "text_chars": 30020,
+      "images": 5,
+      "status": "success"
+    },
+    {
+      "source": "Note/SpringBoot面试专题.pdf",
+      "category": "note/framework",
+      "pages": 6,
+      "text_chars": 5026,
+      "images": 1,
+      "status": "success"
+    },
+    {
+      "source": "Note/Mybatis面试题二.pdf",
+      "category": "note/framework",
+      "pages": 3,
+      "text_chars": 3382,
+      "images": 1,
+      "status": "success"
+    },
+    {
+      "source": "Note/Redis面试题二.pdf",
+      "category": "note/database",
+      "pages": 6,
+      "text_chars": 5199,
+      "images": 1,
+      "status": "success"
+    },
+    {
+      "source": "Note/2020年最新版--Java+最常见的+200++面试题汇总+答案总结汇总.pdf",
+      "category": "note/other",
+      "pages": 44,
+      "text_chars": 45736,
+      "images": 5,
+      "status": "success"
+    },
+    {
+      "source": "Note/Netty面试题 20道.pdf",
+      "category": "note/framework",
+      "pages": 14,
+      "text_chars": 10952,
+      "images": 14,
+      "status": "success"
+    },
+    {
+      "source": "Note/【美团】Java 岗 154 道面试题.pdf",
+      "category": "note/company-interview",
+      "pages": 12,
+      "text_chars": 4889,
+      "images": 1,
+      "status": "success"
+    },
+    {
+      "source": "Note/SpringCloud面试题 49道.pdf",
+      "category": "note/framework",
+      "pages": 15,
+      "text_chars": 13471,
+      "images": 2,
+      "status": "success"
+    },
+    {
+      "source": "Note/Java并发编程最全面试题 123道.pdf",
+      "category": "note/concurrency",
+      "pages": 40,
+      "text_chars": 44797,
+      "images": 15,
+      "status": "success"
+    },
+    {
+      "source": "Note/JAVA核心面试知识整理.pdf",
+      "category": "note/java-basics",
+      "pages": 283,
+      "text_chars": 350837,
+      "images": 184,
+      "status": "success"
+    },
+    {
+      "source": "Note/MySQL面试专题01.pdf",
+      "category": "note/database",
+      "pages": 15,
+      "text_chars": 10913,
+      "images": 2,
+      "status": "success"
+    },
+    {
+      "source": "Note/SpringCloud面试专题.pdf",
+      "category": "note/framework",
+      "pages": 6,
+      "text_chars": 3712,
+      "images": 7,
+      "status": "success"
+    },
+    {
+      "source": "Note/Tomcat综合面试题.pdf",
+      "category": "note/framework",
+      "pages": 10,
+      "text_chars": 12329,
+      "images": 1,
+      "status": "success"
+    },
+    {
+      "source": "Note/手写“Kafka笔记”.pdf",
+      "category": "note/middleware",
+      "pages": 89,
+      "text_chars": 57233,
+      "images": 40,
+      "status": "success"
+    },
+    {
+      "source": "Note/多线程面试59题（含答案）.pdf",
+      "category": "note/concurrency",
+      "pages": 10,
+      "text_chars": 12505,
+      "images": 2,
+      "status": "success"
+    },
+    {
+      "source": "Note/Netty综合面试题.pdf",
+      "category": "note/framework",
+      "pages": 8,
+      "text_chars": 10773,
+      "images": 1,
+      "status": "success"
+    },
+    {
+      "source": "Note/Java虚拟机（JVM）面试题 51道.pdf",
+      "category": "note/jvm",
+      "pages": 23,
+      "text_chars": 18995,
+      "images": 17,
+      "status": "success"
+    },
+    {
+      "source": "Note/SpringMVC面试题 29道.pdf",
+      "category": "note/framework",
+      "pages": 8,
+      "text_chars": 7535,
+      "images": 2,
+      "status": "success"
+    },
+    {
+      "source": "Note/Nginx面试题二.pdf",
+      "category": "note/devops",
+      "pages": 3,
+      "text_chars": 1417,
+      "images": 1,
+      "status": "success"
+    },
+    {
+      "source": "Note/Kafka知识汇总 18道.pdf",
+      "category": "note/middleware",
+      "pages": 14,
+      "text_chars": 7317,
+      "images": 18,
+      "status": "success"
+    },
+    {
+      "source": "Note/头条篇.pdf",
+      "category": "note/company-interview",
+      "pages": 5,
+      "text_chars": 3553,
+      "images": 6,
+      "status": "success"
+    },
+    {
+      "source": "Note/华为篇.pdf",
+      "category": "note/company-interview",
+      "pages": 2,
+      "text_chars": 1754,
+      "images": 1,
+      "status": "success"
+    },
+    {
+      "source": "Note/JVM常见面试题解析.pdf",
+      "category": "note/jvm",
+      "pages": 10,
+      "text_chars": 8784,
+      "images": 4,
+      "status": "success"
+    },
+    {
+      "source": "Note/java面试题_消息中间件--RocketMq(14题).pdf",
+      "category": "note/middleware",
+      "pages": 4,
+      "text_chars": 5688,
+      "images": 5,
+      "status": "success"
+    },
+    {
+      "source": "1658页《Java面试突击核心讲》/1.670道.pdf",
+      "category": "java-interview-core",
+      "pages": 670,
+      "text_chars": 721584,
+      "images": 359,
+      "status": "success"
+    },
+    {
+      "source": "1658页《Java面试突击核心讲》/3.358道.pdf",
+      "category": "java-interview-core",
+      "pages": 358,
+      "text_chars": 623896,
+      "images": 299,
+      "status": "success"
+    },
+    {
+      "source": "1658页《Java面试突击核心讲》/2.630道.pdf",
+      "category": "java-interview-core",
+      "pages": 630,
+      "text_chars": 890417,
+      "images": 167,
+      "status": "success"
+    },
+    {
+      "source": "各大公司面试题库/公司题库(219问 完整答案版)/06、腾讯(18问).pdf",
+      "category": "company-questions/bank-219",
+      "pages": 4,
+      "text_chars": 3662,
+      "images": 5,
+      "status": "success"
+    },
+    {
+      "source": "各大公司面试题库/公司题库(219问 完整答案版)/03、中国平安(48问).pdf",
+      "category": "company-questions/bank-219",
+      "pages": 17,
+      "text_chars": 19612,
+      "images": 19,
+      "status": "success"
+    },
+    {
+      "source": "各大公司面试题库/公司题库(219问 完整答案版)/04、乐信(25问).pdf",
+      "category": "company-questions/bank-219",
+      "pages": 9,
+      "text_chars": 5482,
+      "images": 5,
+      "status": "success"
+    },
+    {
+      "source": "各大公司面试题库/公司题库(219问 完整答案版)/07、oppo(36问).pdf",
+      "category": "company-questions/bank-219",
+      "pages": 10,
+      "text_chars": 6281,
+      "images": 8,
+      "status": "success"
+    },
+    {
+      "source": "各大公司面试题库/公司题库(219问 完整答案版)/02、商汤科技(20问).pdf",
+      "category": "company-questions/bank-219",
+      "pages": 10,
+      "text_chars": 14427,
+      "images": 11,
+      "status": "success"
+    },
+    {
+      "source": "各大公司面试题库/公司题库(219问 完整答案版)/08、阿里巴巴—蚂蚁金服(6问).pdf",
+      "category": "company-questions/bank-219",
+      "pages": 2,
+      "text_chars": 1773,
+      "images": 1,
+      "status": "success"
+    },
+    {
+      "source": "各大公司面试题库/公司题库(219问 完整答案版)/05、银盛支付(15问).pdf",
+      "category": "company-questions/bank-219",
+      "pages": 7,
+      "text_chars": 7903,
+      "images": 9,
+      "status": "success"
+    },
+    {
+      "source": "各大公司面试题库/公司题库(219问 完整答案版)/01、丰巢科技(51问).pdf",
+      "category": "company-questions/bank-219",
+      "pages": 22,
+      "text_chars": 29701,
+      "images": 20,
+      "status": "success"
+    },
+    {
+      "source": "各大公司面试题库/面试题库（368题）/08.2、消息中间件--kafka(5题).pdf",
+      "category": "company-questions/bank-368",
+      "pages": 4,
+      "text_chars": 3126,
+      "images": 1,
+      "status": "success"
+    },
+    {
+      "source": "各大公司面试题库/面试题库（368题）/17、Java.进入IT企业必读的324个JAVA面试题.pdf",
+      "category": "company-questions/bank-368",
+      "pages": 463,
+      "text_chars": 223,
+      "images": 462,
+      "status": "success"
+    },
+    {
+      "source": "各大公司面试题库/面试题库（368题）/01、Java基础(35题).pdf",
+      "category": "company-questions/bank-368",
+      "pages": 8,
+      "text_chars": 12259,
+      "images": 6,
+      "status": "success"
+    },
+    {
+      "source": "各大公司面试题库/面试题库（368题）/10、linux命令(14题).pdf",
+      "category": "company-questions/bank-368",
+      "pages": 3,
+      "text_chars": 3557,
+      "images": 3,
+      "status": "success"
+    },
+    {
+      "source": "各大公司面试题库/面试题库（368题）/04.2、微服务—SpringCloud(20题).pdf",
+      "category": "company-questions/bank-368",
+      "pages": 8,
+      "text_chars": 8776,
+      "images": 11,
+      "status": "success"
+    },
+    {
+      "source": "各大公司面试题库/面试题库（368题）/04.1、微服务--dubbo(41题).pdf",
+      "category": "company-questions/bank-368",
+      "pages": 7,
+      "text_chars": 4451,
+      "images": 11,
+      "status": "success"
+    },
+    {
+      "source": "各大公司面试题库/面试题库（368题）/04.0、多线程(68题).pdf",
+      "category": "company-questions/bank-368",
+      "pages": 24,
+      "text_chars": 40452,
+      "images": 9,
+      "status": "success"
+    },
+    {
+      "source": "各大公司面试题库/面试题库（368题）/06.1、框架—Spring(14题).pdf",
+      "category": "company-questions/bank-368",
+      "pages": 9,
+      "text_chars": 13806,
+      "images": 4,
+      "status": "success"
+    },
+    {
+      "source": "各大公司面试题库/面试题库（368题）/05、数据结构与算法(10题).pdf",
+      "category": "company-questions/bank-368",
+      "pages": 8,
+      "text_chars": 6774,
+      "images": 10,
+      "status": "success"
+    },
+    {
+      "source": "各大公司面试题库/面试题库（368题）/11、网络(13题).pdf",
+      "category": "company-questions/bank-368",
+      "pages": 9,
+      "text_chars": 6611,
+      "images": 2,
+      "status": "success"
+    },
+    {
+      "source": "各大公司面试题库/面试题库（368题）/03、设计模式(26题).pdf",
+      "category": "company-questions/bank-368",
+      "pages": 9,
+      "text_chars": 9396,
+      "images": 7,
+      "status": "success"
+    },
+    {
+      "source": "各大公司面试题库/面试题库（368题）/13、源码解读(3题).pdf",
+      "category": "company-questions/bank-368",
+      "pages": 3,
+      "text_chars": 5177,
+      "images": 0,
+      "status": "success"
+    },
+    {
+      "source": "各大公司面试题库/面试题库（368题）/09、缓存(10题).pdf",
+      "category": "company-questions/bank-368",
+      "pages": 3,
+      "text_chars": 3602,
+      "images": 2,
+      "status": "success"
+    },
+    {
+      "source": "各大公司面试题库/面试题库（368题）/16、总结(3题).pdf",
+      "category": "company-questions/bank-368",
+      "pages": 1,
+      "text_chars": 186,
+      "images": 0,
+      "status": "success"
+    },
+    {
+      "source": "各大公司面试题库/面试题库（368题）/0.1、高频题.pdf",
+      "category": "company-questions/bank-368",
+      "pages": 3,
+      "text_chars": 3502,
+      "images": 0,
+      "status": "success"
+    },
+    {
+      "source": "各大公司面试题库/面试题库（368题）/15、系统解决方案(4题).pdf",
+      "category": "company-questions/bank-368",
+      "pages": 3,
+      "text_chars": 3251,
+      "images": 0,
+      "status": "success"
+    },
+    {
+      "source": "各大公司面试题库/面试题库（368题）/06.2、框架—其他(12题).pdf",
+      "category": "company-questions/bank-368",
+      "pages": 9,
+      "text_chars": 10592,
+      "images": 7,
+      "status": "success"
+    },
+    {
+      "source": "各大公司面试题库/面试题库（368题）/07、数据库(13题).pdf",
+      "category": "company-questions/bank-368",
+      "pages": 4,
+      "text_chars": 3573,
+      "images": 4,
+      "status": "success"
+    },
+    {
+      "source": "各大公司面试题库/面试题库（368题）/14、大数据(3题).pdf",
+      "category": "company-questions/bank-368",
+      "pages": 2,
+      "text_chars": 1221,
+      "images": 1,
+      "status": "success"
+    },
+    {
+      "source": "各大公司面试题库/面试题库（368题）/02、jvm(21题).pdf",
+      "category": "company-questions/bank-368",
+      "pages": 9,
+      "text_chars": 11938,
+      "images": 8,
+      "status": "success"
+    },
+    {
+      "source": "各大公司面试题库/面试题库（368题）/12、高并发、高可用、分布式(9题).pdf",
+      "category": "company-questions/bank-368",
+      "pages": 9,
+      "text_chars": 3933,
+      "images": 5,
+      "status": "success"
+    },
+    {
+      "source": "各大公司面试题库/面试题库（368题）/08.3、消息中间件--RocketMq(14题).pdf",
+      "category": "company-questions/bank-368",
+      "pages": 4,
+      "text_chars": 5614,
+      "images": 4,
+      "status": "success"
+    },
+    {
+      "source": "各大公司面试题库/面试题库（368题）/0.1、知识点.pdf",
+      "category": "company-questions/bank-368",
+      "pages": 2,
+      "text_chars": 522,
+      "images": 0,
+      "status": "success"
+    },
+    {
+      "source": "各大公司面试题库/面试题库（368题）/08.1、消息中间件--RabbitMQ(20题).pdf",
+      "category": "company-questions/bank-368",
+      "pages": 5,
+      "text_chars": 5111,
+      "images": 4,
+      "status": "success"
+    },
+    {
+      "source": "笔试面试真题（包含面试真题和企业面试题）/2020互联网Java企业面试真题合辑（上）.pdf",
+      "category": "interview-questions/company",
+      "pages": 485,
+      "text_chars": 327035,
+      "images": 53,
+      "status": "success"
+    },
+    {
+      "source": "笔试面试真题（包含面试真题和企业面试题）/2020互联网Java企业面试真题合辑（下）.pdf",
+      "category": "interview-questions/company",
+      "pages": 97,
+      "text_chars": 102062,
+      "images": 49,
+      "status": "success"
+    },
+    {
+      "source": "笔试面试真题（包含面试真题和企业面试题）/面试真题-按知识点划分/06_JVM_面试专题及答案（下）.pdf",
+      "category": "interview-questions/by-topic",
+      "pages": 19,
+      "text_chars": 10415,
+      "images": 0,
+      "status": "success"
+    },
+    {
+      "source": "笔试面试真题（包含面试真题和企业面试题）/面试真题-按知识点划分/32_数据结构与算法_面试专题及答案.pdf",
+      "category": "interview-questions/by-topic",
+      "pages": 8,
+      "text_chars": 6774,
+      "images": 10,
+      "status": "success"
+    },
+    {
+      "source": "笔试面试真题（包含面试真题和企业面试题）/面试真题-按知识点划分/05_JVM_面试专题及答案（上）.pdf",
+      "category": "interview-questions/by-topic",
+      "pages": 10,
+      "text_chars": 6740,
+      "images": 0,
+      "status": "success"
+    },
+    {
+      "source": "笔试面试真题（包含面试真题和企业面试题）/面试真题-按知识点划分/15_Redis_面试专题及答案（上）.pdf",
+      "category": "interview-questions/by-topic",
+      "pages": 7,
+      "text_chars": 8653,
+      "images": 0,
+      "status": "success"
+    },
+    {
+      "source": "笔试面试真题（包含面试真题和企业面试题）/面试真题-按知识点划分/30_Linux_面试专题及答案.pdf",
+      "category": "interview-questions/by-topic",
+      "pages": 5,
+      "text_chars": 1525,
+      "images": 0,
+      "status": "success"
+    },
+    {
+      "source": "笔试面试真题（包含面试真题和企业面试题）/面试真题-按知识点划分/31_设计模式_面试专题及答案.pdf",
+      "category": "interview-questions/by-topic",
+      "pages": 2,
+      "text_chars": 1915,
+      "images": 0,
+      "status": "success"
+    },
+    {
+      "source": "笔试面试真题（包含面试真题和企业面试题）/面试真题-按知识点划分/14_MongoDB_面试专题及答案.pdf",
+      "category": "interview-questions/by-topic",
+      "pages": 4,
+      "text_chars": 4125,
+      "images": 0,
+      "status": "success"
+    },
+    {
+      "source": "笔试面试真题（包含面试真题和企业面试题）/面试真题-按知识点划分/12_MySQL_面试专题及答案（下）.pdf",
+      "category": "interview-questions/by-topic",
+      "pages": 10,
+      "text_chars": 7421,
+      "images": 0,
+      "status": "success"
+    },
+    {
+      "source": "笔试面试真题（包含面试真题和企业面试题）/面试真题-按知识点划分/20_SpringBoot_面试专题及答案.pdf",
+      "category": "interview-questions/by-topic",
+      "pages": 6,
+      "text_chars": 4914,
+      "images": 0,
+      "status": "success"
+    },
+    {
+      "source": "笔试面试真题（包含面试真题和企业面试题）/面试真题-按知识点划分/34_人事问题_面试专题及答案.pdf",
+      "category": "interview-questions/by-topic",
+      "pages": 10,
+      "text_chars": 6094,
+      "images": 0,
+      "status": "success"
+    },
+    {
+      "source": "笔试面试真题（包含面试真题和企业面试题）/面试真题-按知识点划分/25_ActiveMQ_面试专题及答案.pdf",
+      "category": "interview-questions/by-topic",
+      "pages": 4,
+      "text_chars": 4080,
+      "images": 0,
+      "status": "success"
+    },
+    {
+      "source": "笔试面试真题（包含面试真题和企业面试题）/面试真题-按知识点划分/02_Java集合_面试专题及答案 .pdf",
+      "category": "interview-questions/by-topic",
+      "pages": 11,
+      "text_chars": 7751,
+      "images": 1,
+      "status": "success"
+    },
+    {
+      "source": "笔试面试真题（包含面试真题和企业面试题）/面试真题-按知识点划分/27_Kafka_面试专题及答案.pdf",
+      "category": "interview-questions/by-topic",
+      "pages": 3,
+      "text_chars": 3789,
+      "images": 0,
+      "status": "success"
+    },
+    {
+      "source": "笔试面试真题（包含面试真题和企业面试题）/面试真题-按知识点划分/07_Tomcat_面试专题及答案（上）.pdf",
+      "category": "interview-questions/by-topic",
+      "pages": 10,
+      "text_chars": 12139,
+      "images": 0,
+      "status": "success"
+    },
+    {
+      "source": "笔试面试真题（包含面试真题和企业面试题）/面试真题-按知识点划分/13_SQL优化_面试专题及答案.pdf",
+      "category": "interview-questions/by-topic",
+      "pages": 10,
+      "text_chars": 7421,
+      "images": 0,
+      "status": "success"
+    },
+    {
+      "source": "笔试面试真题（包含面试真题和企业面试题）/面试真题-按知识点划分/33_计算机网络_面试专题及答案.pdf",
+      "category": "interview-questions/by-topic",
+      "pages": 9,
+      "text_chars": 6611,
+      "images": 2,
+      "status": "success"
+    },
+    {
+      "source": "笔试面试真题（包含面试真题和企业面试题）/面试真题-按知识点划分/21_SpringCloud_面试专题及答案.pdf",
+      "category": "interview-questions/by-topic",
+      "pages": 6,
+      "text_chars": 3590,
+      "images": 6,
+      "status": "success"
+    },
+    {
+      "source": "笔试面试真题（包含面试真题和企业面试题）/面试真题-按知识点划分/28_消息中间件_面试专题及答案.pdf",
+      "category": "interview-questions/by-topic",
+      "pages": 9,
+      "text_chars": 5904,
+      "images": 0,
+      "status": "success"
+    },
+    {
+      "source": "笔试面试真题（包含面试真题和企业面试题）/面试真题-按知识点划分/29_Netty_面试专题及答案.pdf",
+      "category": "interview-questions/by-topic",
+      "pages": 8,
+      "text_chars": 10624,
+      "images": 0,
+      "status": "success"
+    },
+    {
+      "source": "笔试面试真题（包含面试真题和企业面试题）/面试真题-按知识点划分/08_Tomcat_面试专题及答案（下）.pdf",
+      "category": "interview-questions/by-topic",
+      "pages": 10,
+      "text_chars": 7745,
+      "images": 0,
+      "status": "success"
+    },
+    {
+      "source": "笔试面试真题（包含面试真题和企业面试题）/面试真题-按知识点划分/26_RabbitMQ_面试专题及答案.pdf",
+      "category": "interview-questions/by-topic",
+      "pages": 5,
+      "text_chars": 7759,
+      "images": 0,
+      "status": "success"
+    },
+    {
+      "source": "笔试面试真题（包含面试真题和企业面试题）/面试真题-按知识点划分/22_Dubbo_面试专题及答案（上）.pdf",
+      "category": "interview-questions/by-topic",
+      "pages": 15,
+      "text_chars": 6239,
+      "images": 7,
+      "status": "success"
+    },
+    {
+      "source": "笔试面试真题（包含面试真题和企业面试题）/面试真题-按知识点划分/01_Java语法基础_面试专题及答案.pdf",
+      "category": "interview-questions/by-topic",
+      "pages": 21,
+      "text_chars": 13001,
+      "images": 2,
+      "status": "success"
+    },
+    {
+      "source": "笔试面试真题（包含面试真题和企业面试题）/面试真题-按知识点划分/24_Zookeeper_面试专题及答案.pdf",
+      "category": "interview-questions/by-topic",
+      "pages": 11,
+      "text_chars": 7223,
+      "images": 6,
+      "status": "success"
+    },
+    {
+      "source": "笔试面试真题（包含面试真题和企业面试题）/面试真题-按知识点划分/19_MyBatis_面试专题及答案.pdf",
+      "category": "interview-questions/by-topic",
+      "pages": 7,
+      "text_chars": 7726,
+      "images": 0,
+      "status": "success"
+    },
+    {
+      "source": "笔试面试真题（包含面试真题和企业面试题）/面试真题-按知识点划分/13_Memcached_面试专题及答案.pdf",
+      "category": "interview-questions/by-topic",
+      "pages": 6,
+      "text_chars": 7187,
+      "images": 0,
+      "status": "success"
+    },
+    {
+      "source": "笔试面试真题（包含面试真题和企业面试题）/面试真题-按知识点划分/04_并发编程_面试专题及答案（下）.pdf",
+      "category": "interview-questions/by-topic",
+      "pages": 3,
+      "text_chars": 2643,
+      "images": 0,
+      "status": "success"
+    },
+    {
+      "source": "笔试面试真题（包含面试真题和企业面试题）/面试真题-按知识点划分/03_并发编程_面试专题及答案（上）.pdf",
+      "category": "interview-questions/by-topic",
+      "pages": 24,
+      "text_chars": 13030,
+      "images": 7,
+      "status": "success"
+    },
+    {
+      "source": "笔试面试真题（包含面试真题和企业面试题）/面试真题-按知识点划分/16_Redis_面试专题及答案（下）.pdf",
+      "category": "interview-questions/by-topic",
+      "pages": 5,
+      "text_chars": 5852,
+      "images": 0,
+      "status": "success"
+    },
+    {
+      "source": "笔试面试真题（包含面试真题和企业面试题）/面试真题-按知识点划分/18_SpringMVC_面试专题及答案.pdf",
+      "category": "interview-questions/by-topic",
+      "pages": 4,
+      "text_chars": 3663,
+      "images": 0,
+      "status": "success"
+    },
+    {
+      "source": "笔试面试真题（包含面试真题和企业面试题）/面试真题-按知识点划分/09_Nginx_面试专题及答案.pdf",
+      "category": "interview-questions/by-topic",
+      "pages": 3,
+      "text_chars": 1994,
+      "images": 0,
+      "status": "success"
+    },
+    {
+      "source": "笔试面试真题（包含面试真题和企业面试题）/面试真题-按知识点划分/17_Spring_面试专题及答案.pdf",
+      "category": "interview-questions/by-topic",
+      "pages": 21,
+      "text_chars": 10428,
+      "images": 0,
+      "status": "success"
+    },
+    {
+      "source": "笔试面试真题（包含面试真题和企业面试题）/面试真题-按知识点划分/10_数据库_面试专题及答案.pdf",
+      "category": "interview-questions/by-topic",
+      "pages": 22,
+      "text_chars": 11183,
+      "images": 0,
+      "status": "success"
+    },
+    {
+      "source": "笔试面试真题（包含面试真题和企业面试题）/面试真题-按知识点划分/23_Dubbo_面试专题及答案（下）.pdf",
+      "category": "interview-questions/by-topic",
+      "pages": 5,
+      "text_chars": 5144,
+      "images": 1,
+      "status": "success"
+    },
+    {
+      "source": "笔试面试真题（包含面试真题和企业面试题）/面试真题-按知识点划分/11_MySQL_面试专题及答案（上）.pdf",
+      "category": "interview-questions/by-topic",
+      "pages": 7,
+      "text_chars": 8702,
+      "images": 0,
+      "status": "success"
+    },
+    {
+      "source": "笔试面试真题（包含面试真题和企业面试题）/企业面试真题/20200313-杭州-阿里云-Java实习生.pdf",
+      "category": "interview-questions/company",
+      "pages": 13,
+      "text_chars": 12899,
+      "images": 6,
+      "status": "success"
+    },
+    {
+      "source": "笔试面试真题（包含面试真题和企业面试题）/企业面试真题/20200320-北京-京东-Java实习生.pdf",
+      "category": "interview-questions/company",
+      "pages": 6,
+      "text_chars": 6208,
+      "images": 0,
+      "status": "success"
+    },
+    {
+      "source": "笔试面试真题（包含面试真题和企业面试题）/企业面试真题/20200319-上海-拼多多-Java高级.pdf",
+      "category": "interview-questions/company",
+      "pages": 13,
+      "text_chars": 10313,
+      "images": 1,
+      "status": "success"
+    },
+    {
+      "source": "笔试面试真题（包含面试真题和企业面试题）/企业面试真题/20191020-南京-软通动力-Java初级.pdf",
+      "category": "interview-questions/company",
+      "pages": 3,
+      "text_chars": 2797,
+      "images": 0,
+      "status": "success"
+    },
+    {
+      "source": "笔试面试真题（包含面试真题和企业面试题）/企业面试真题/20190928-深圳-OPPO-Java高级.pdf",
+      "category": "interview-questions/company",
+      "pages": 10,
+      "text_chars": 6281,
+      "images": 8,
+      "status": "success"
+    },
+    {
+      "source": "笔试面试真题（包含面试真题和企业面试题）/企业面试真题/20190813-深圳-银盛支付-Java中级.pdf",
+      "category": "interview-questions/company",
+      "pages": 7,
+      "text_chars": 7903,
+      "images": 9,
+      "status": "success"
+    },
+    {
+      "source": "笔试面试真题（包含面试真题和企业面试题）/企业面试真题/20200318-杭州-蚂蚁金服-Java高级.pdf",
+      "category": "interview-questions/company",
+      "pages": 7,
+      "text_chars": 6523,
+      "images": 3,
+      "status": "success"
+    },
+    {
+      "source": "笔试面试真题（包含面试真题和企业面试题）/企业面试真题/20191104-深圳-腾讯-Java高级.pdf",
+      "category": "interview-questions/company",
+      "pages": 4,
+      "text_chars": 3662,
+      "images": 5,
+      "status": "success"
+    },
+    {
+      "source": "笔试面试真题（包含面试真题和企业面试题）/企业面试真题/20190806-深圳-中国平安-Java中级.pdf",
+      "category": "interview-questions/company",
+      "pages": 17,
+      "text_chars": 19612,
+      "images": 19,
+      "status": "success"
+    },
+    {
+      "source": "笔试面试真题（包含面试真题和企业面试题）/企业面试真题/20191025-杭州-蚂蚁金服-资深工程师.pdf",
+      "category": "interview-questions/company",
+      "pages": 5,
+      "text_chars": 5741,
+      "images": 0,
+      "status": "success"
+    },
+    {
+      "source": "笔试面试真题（包含面试真题和企业面试题）/企业面试真题/20200215-深圳-蚂蚁金服-Java高级.pdf",
+      "category": "interview-questions/company",
+      "pages": 2,
+      "text_chars": 1773,
+      "images": 1,
+      "status": "success"
+    },
+    {
+      "source": "笔试面试真题（包含面试真题和企业面试题）/企业面试真题/20200112-深圳-丰巢科技-Java高级.pdf",
+      "category": "interview-questions/company",
+      "pages": 22,
+      "text_chars": 29701,
+      "images": 20,
+      "status": "success"
+    },
+    {
+      "source": "笔试面试真题（包含面试真题和企业面试题）/企业面试真题/20191212-深圳-商汤科技-Java高级.pdf",
+      "category": "interview-questions/company",
+      "pages": 10,
+      "text_chars": 14427,
+      "images": 11,
+      "status": "success"
+    },
+    {
+      "source": "笔试面试真题（包含面试真题和企业面试题）/企业面试真题/20200313-上海-携程-Java高级.pdf",
+      "category": "interview-questions/company",
+      "pages": 18,
+      "text_chars": 14896,
+      "images": 10,
+      "status": "success"
+    },
+    {
+      "source": "笔试面试真题（包含面试真题和企业面试题）/企业面试真题/20191123-深圳-乐信-Java高级.pdf",
+      "category": "interview-questions/company",
+      "pages": 9,
+      "text_chars": 5482,
+      "images": 5,
+      "status": "success"
+    },
+    {
+      "source": "笔试面试真题（包含面试真题和企业面试题）/企业面试真题/20200322-厦门-中软国际-Java初级.pdf",
+      "category": "interview-questions/company",
+      "pages": 10,
+      "text_chars": 5431,
+      "images": 0,
+      "status": "success"
+    },
+    {
+      "source": "笔试面试真题（包含面试真题和企业面试题）/企业面试真题/20200306-广州-唯品会-Java大数据开发工程师.pdf",
+      "category": "interview-questions/company",
+      "pages": 15,
+      "text_chars": 10204,
+      "images": 0,
+      "status": "success"
+    },
+    {
+      "source": "笔试面试真题（包含面试真题和企业面试题）/企业面试真题/20200311-北京-百度-Java中级.pdf",
+      "category": "interview-questions/company",
+      "pages": 6,
+      "text_chars": 6220,
+      "images": 0,
+      "status": "success"
+    },
+    {
+      "source": "笔试面试真题（包含面试真题和企业面试题）/笔试题套餐/Java程序员面试笔试宝典.pdf",
+      "category": "interview-questions/exam-packs",
+      "pages": 349,
+      "text_chars": 0,
+      "images": 349,
+      "status": "success"
+    },
+    {
+      "source": "笔试面试真题（包含面试真题和企业面试题）/笔试题套餐/互联网Java企业笔试真题大全 - 最新版.pdf",
+      "category": "interview-questions/exam-packs",
+      "pages": 57,
+      "text_chars": 79720,
+      "images": 1,
+      "status": "success"
+    },
+    {
+      "source": "Java3y/对线面试官-明亮版.pdf",
+      "category": "java3y/interview",
+      "pages": 258,
+      "text_chars": 141402,
+      "images": 341,
+      "status": "success"
+    },
+    {
+      "source": "Java3y/对线面试官-暗黑版.pdf",
+      "category": "java3y/interview",
+      "pages": 341,
+      "text_chars": 141739,
+      "images": 318,
+      "status": "success"
+    },
+    {
+      "source": "Java3y/简历模板/如何写简历.pdf",
+      "category": "java3y/resume-templates",
+      "pages": 12,
+      "text_chars": 3140,
+      "images": 13,
+      "status": "success"
+    },
+    {
+      "source": "Java3y/简历模板/GitHub文档简历Demo.pdf",
+      "category": "java3y/resume-templates",
+      "pages": 2,
+      "text_chars": 1105,
+      "images": 0,
+      "status": "success"
+    },
+    {
+      "source": "Java3y/基础知识原创电子书/Servlet电子书/三歪教你学Servlet.pdf",
+      "category": "java3y/ebooks",
+      "pages": 141,
+      "text_chars": 74016,
+      "images": 223,
+      "status": "success"
+    },
+    {
+      "source": "Java3y/基础知识原创电子书/JSP 电子书/三歪教你学JSP.pdf",
+      "category": "java3y/ebooks",
+      "pages": 158,
+      "text_chars": 86005,
+      "images": 182,
+      "status": "success"
+    },
+    {
+      "source": "Java3y/基础知识原创电子书/过滤器和监听器电子书/三歪教你学习过滤器和监听器.pdf",
+      "category": "java3y/ebooks",
+      "pages": 58,
+      "text_chars": 46651,
+      "images": 43,
+      "status": "success"
+    },
+    {
+      "source": "Java3y/基础知识原创电子书/JDBC电子书/三歪教你学JDBC.pdf",
+      "category": "java3y/ebooks",
+      "pages": 64,
+      "text_chars": 59217,
+      "images": 27,
+      "status": "success"
+    },
+    {
+      "source": "Java3y/基础知识原创电子书/Java集合 电子书/三歪教你学Java集合(1).pdf",
+      "category": "java3y/ebooks",
+      "pages": 123,
+      "text_chars": 39406,
+      "images": 196,
+      "status": "success"
+    },
+    {
+      "source": "Java3y/基础知识原创电子书/Spring电子书/三歪教你Spring.pdf",
+      "category": "java3y/ebooks",
+      "pages": 142,
+      "text_chars": 84612,
+      "images": 145,
+      "status": "success"
+    },
+    {
+      "source": "Java3y/基础知识原创电子书/HTTP电子书/三歪教你学HTTP.pdf",
+      "category": "java3y/ebooks",
+      "pages": 30,
+      "text_chars": 15411,
+      "images": 36,
+      "status": "success"
+    },
+    {
+      "source": "Java3y/基础知识原创电子书/排序和数据结构电子书/三歪教你学排序和数据结构.pdf",
+      "category": "java3y/ebooks",
+      "pages": 105,
+      "text_chars": 53500,
+      "images": 104,
+      "status": "success"
+    },
+    {
+      "source": "Java3y/基础知识原创电子书/SpringMVC电子书/三歪教你学SpringMVC.pdf",
+      "category": "java3y/ebooks",
+      "pages": 47,
+      "text_chars": 32671,
+      "images": 40,
+      "status": "success"
+    },
+    {
+      "source": "Java3y/基础知识原创电子书/Mybatis 电子书/三歪教你学Mybatis.pdf",
+      "category": "java3y/ebooks",
+      "pages": 92,
+      "text_chars": 75668,
+      "images": 61,
+      "status": "success"
+    },
+    {
+      "source": "Java3y/基础知识原创电子书/多线程电子书/三歪教你学多线程.pdf",
+      "category": "java3y/ebooks",
+      "pages": 129,
+      "text_chars": 63932,
+      "images": 152,
+      "status": "success"
+    },
+    {
+      "source": "代码随想录算法PDF/「代码随想录」回溯算法精讲（v2.0）.pdf",
+      "category": "algorithm",
+      "pages": 166,
+      "text_chars": 80935,
+      "images": 84,
+      "status": "success"
+    },
+    {
+      "source": "代码随想录算法PDF/「代码随想录」程序员求职攻略（v2.0）.pdf",
+      "category": "algorithm",
+      "pages": 32,
+      "text_chars": 14368,
+      "images": 6,
+      "status": "success"
+    },
+    {
+      "source": "代码随想录算法PDF/「代码随想录」动态规划专题精讲（v2.0）.pdf",
+      "category": "algorithm",
+      "pages": 272,
+      "text_chars": 146770,
+      "images": 100,
+      "status": "success"
+    },
+    {
+      "source": "代码随想录算法PDF/「代码随想录」二叉树专题精讲（v2.0）.pdf",
+      "category": "algorithm",
+      "pages": 267,
+      "text_chars": 158966,
+      "images": 91,
+      "status": "success"
+    },
+    {
+      "source": "代码随想录算法PDF/必读v1.pdf",
+      "category": "algorithm",
+      "pages": 1,
+      "text_chars": 380,
+      "images": 2,
+      "status": "success"
+    },
+    {
+      "source": "代码随想录算法PDF/「代码随想录」贪心算法专题精讲（v2.0）.pdf",
+      "category": "algorithm",
+      "pages": 127,
+      "text_chars": 67060,
+      "images": 48,
+      "status": "success"
+    },
+    {
+      "source": "JavaGuide/字节、阿里、用友、美团、荣耀面经整理.pdf",
+      "category": "javaguide/interview-guide",
+      "pages": 23,
+      "text_chars": 10972,
+      "images": 0,
+      "status": "success"
+    },
+    {
+      "source": "JavaGuide/深入理解Java虚拟机：（第3版).pdf",
+      "category": "javaguide/jvm",
+      "pages": 582,
+      "text_chars": 578538,
+      "images": 274,
+      "status": "success"
+    },
+    {
+      "source": "JavaGuide/消息队列常见面试题夜间版.pdf",
+      "category": "javaguide/interview-guide",
+      "pages": 127,
+      "text_chars": 59178,
+      "images": 151,
+      "status": "success"
+    },
+    {
+      "source": "JavaGuide/消息队列常见面试题.pdf",
+      "category": "javaguide/interview-guide",
+      "pages": 104,
+      "text_chars": 59395,
+      "images": 151,
+      "status": "success"
+    },
+    {
+      "source": "JavaGuide/技术面试常见智力题.pdf",
+      "category": "javaguide/interview-guide",
+      "pages": 34,
+      "text_chars": 11229,
+      "images": 4,
+      "status": "success"
+    },
+    {
+      "source": "JavaGuide/分布式相关面试题汇总.pdf",
+      "category": "javaguide/interview-guide",
+      "pages": 141,
+      "text_chars": 51342,
+      "images": 81,
+      "status": "success"
+    },
+    {
+      "source": "JavaGuide/设计模式面试题汇总.pdf",
+      "category": "javaguide/design-patterns",
+      "pages": 47,
+      "text_chars": 18771,
+      "images": 23,
+      "status": "success"
+    },
+    {
+      "source": "JavaGuide/JavaGuide面试突击版/JavaGuide面试突击版5.0(暗黑版).pdf",
+      "category": "javaguide/interview-guide",
+      "pages": 436,
+      "text_chars": 245895,
+      "images": 337,
+      "status": "success"
+    },
+    {
+      "source": "JavaGuide/JavaGuide面试突击版/JavaGuide面试突击版5.0.pdf",
+      "category": "javaguide/interview-guide",
+      "pages": 436,
+      "text_chars": 245895,
+      "images": 337,
+      "status": "success"
+    },
+    {
+      "source": "JavaGuide/JavaGuide面试突击版/JavaGuide面试突击版4.0(暗黑模式).pdf",
+      "category": "javaguide/interview-guide",
+      "pages": 422,
+      "text_chars": 310697,
+      "images": 289,
+      "status": "success"
+    },
+    {
+      "source": "JavaGuide/JavaGuide面试突击版/JavaGuide面试突击版4.0.pdf",
+      "category": "javaguide/interview-guide",
+      "pages": 422,
+      "text_chars": 310697,
+      "images": 289,
+      "status": "success"
+    },
+    {
+      "source": "JavaGuide/各种技术学习路线/测试.pdf",
+      "category": "javaguide/learning-roadmap",
+      "pages": 3,
+      "text_chars": 0,
+      "images": 4,
+      "status": "success"
+    },
+    {
+      "source": "JavaGuide/各种技术学习路线/游戏.pdf",
+      "category": "javaguide/learning-roadmap",
+      "pages": 1,
+      "text_chars": 7015,
+      "images": 216,
+      "status": "success"
+    },
+    {
+      "source": "JavaGuide/各种技术学习路线/人工智能.pdf",
+      "category": "javaguide/learning-roadmap",
+      "pages": 13,
+      "text_chars": 5769,
+      "images": 0,
+      "status": "success"
+    },
+    {
+      "source": "JavaGuide/LeetCode/Leetcode-Go.pdf",
+      "category": "javaguide/leetcode",
+      "pages": 1382,
+      "text_chars": 1341869,
+      "images": 225,
+      "status": "success"
+    },
+    {
+      "source": "JavaGuide/LeetCode/LeetCode 101 - A LeetCode Grinding Guide (C++ Version).pdf",
+      "category": "javaguide/leetcode",
+      "pages": 148,
+      "text_chars": 122666,
+      "images": 18,
+      "status": "success"
+    },
+    {
+      "source": "JavaGuide/LeetCode/Leetcode-CPP.pdf",
+      "category": "javaguide/leetcode",
+      "pages": 262,
+      "text_chars": 252486,
+      "images": 13,
+      "status": "success"
+    },
+    {
+      "source": "JavaGuide/Java/字节大佬总结的Java面试资料.pdf",
+      "category": "javaguide/java-basics",
+      "pages": 283,
+      "text_chars": 345187,
+      "images": 183,
+      "status": "success"
+    },
+    {
+      "source": "JavaGuide/Java/Java集合框架常见面试题夜间阅读版.pdf",
+      "category": "javaguide/java-basics",
+      "pages": 26,
+      "text_chars": 22949,
+      "images": 12,
+      "status": "success"
+    },
+    {
+      "source": "JavaGuide/Java/Java基础知识篇.pdf",
+      "category": "javaguide/java-basics",
+      "pages": 43,
+      "text_chars": 39744,
+      "images": 17,
+      "status": "success"
+    },
+    {
+      "source": "JavaGuide/Java/JVM之问5.0（球友分享）.pdf",
+      "category": "javaguide/jvm",
+      "pages": 30,
+      "text_chars": 21652,
+      "images": 20,
+      "status": "success"
+    },
+    {
+      "source": "JavaGuide/Java/Java集合框架常见面试题.pdf",
+      "category": "javaguide/java-basics",
+      "pages": 25,
+      "text_chars": 22723,
+      "images": 11,
+      "status": "success"
+    },
+    {
+      "source": "JavaGuide/Java/Java 工程师进阶知识完全扫盲.pdf",
+      "category": "javaguide/java-basics",
+      "pages": 283,
+      "text_chars": 227983,
+      "images": 121,
+      "status": "success"
+    },
+    {
+      "source": "JavaGuide/Java/RocketMQ 从入门到实战.pdf",
+      "category": "javaguide/middleware",
+      "pages": 165,
+      "text_chars": 107398,
+      "images": 146,
+      "status": "success"
+    },
+    {
+      "source": "JavaGuide/Java/RocketMQ源码解析.pdf",
+      "category": "javaguide/middleware",
+      "pages": 175,
+      "text_chars": 141202,
+      "images": 80,
+      "status": "success"
+    },
+    {
+      "source": "JavaGuide/计算机基础/图解操作系统.pdf",
+      "category": "javaguide/computer-basics",
+      "pages": 306,
+      "text_chars": 218860,
+      "images": 305,
+      "status": "success"
+    },
+    {
+      "source": "JavaGuide/计算机基础/图解HTTP.pdf",
+      "category": "javaguide/computer-basics",
+      "pages": 122,
+      "text_chars": 90034,
+      "images": 101,
+      "status": "success"
+    },
+    {
+      "source": "JavaGuide/计算机基础/图解计算机基础.pdf",
+      "category": "javaguide/computer-basics",
+      "pages": 93,
+      "text_chars": 60427,
+      "images": 89,
+      "status": "success"
+    },
+    {
+      "source": "JavaGuide/计算机基础/图解网络/亮白风格-图解网络.pdf",
+      "category": "javaguide/computer-basics",
+      "pages": 443,
+      "text_chars": 170644,
+      "images": 514,
+      "status": "success"
+    },
+    {
+      "source": "JavaGuide/计算机基础/图解网络/暗黑风格-图解网络.pdf",
+      "category": "javaguide/computer-basics",
+      "pages": 444,
+      "text_chars": 170694,
+      "images": 513,
+      "status": "success"
+    },
+    {
+      "source": "JavaGuide/计算机基础/图解计算机系统/图解系统-暗黑风格.pdf",
+      "category": "javaguide/computer-basics",
+      "pages": 478,
+      "text_chars": 179694,
+      "images": 414,
+      "status": "success"
+    },
+    {
+      "source": "JavaGuide/计算机基础/算法刷题资源/Leetcode-Go.pdf",
+      "category": "javaguide/computer-basics",
+      "pages": 1382,
+      "text_chars": 1341869,
+      "images": 225,
+      "status": "success"
+    },
+    {
+      "source": "JavaGuide/计算机基础/算法刷题资源/LeetCode 101 - A LeetCode Grinding Guide (C++ Version).pdf",
+      "category": "javaguide/computer-basics",
+      "pages": 148,
+      "text_chars": 122666,
+      "images": 18,
+      "status": "success"
+    },
+    {
+      "source": "JavaGuide/计算机基础/算法刷题资源/Leetcode-CPP.pdf",
+      "category": "javaguide/computer-basics",
+      "pages": 262,
+      "text_chars": 252486,
+      "images": 13,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Nginx 34 道 .pdf",
+      "category": "big-interview-3rd",
+      "pages": 21,
+      "text_chars": 0,
+      "images": 21,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Python 70 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 35,
+      "text_chars": 0,
+      "images": 35,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：ZooKeeper 28 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 20,
+      "text_chars": 0,
+      "images": 20,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：HTTP 20 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 6,
+      "text_chars": 0,
+      "images": 6,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：RabbitMQ 45 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 19,
+      "text_chars": 0,
+      "images": 19,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Android 40 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 37,
+      "text_chars": 0,
+      "images": 37,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：SpringCloud 20 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 17,
+      "text_chars": 0,
+      "images": 17,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：JVM 20 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 21,
+      "text_chars": 0,
+      "images": 21,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Redis 27道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 10,
+      "text_chars": 0,
+      "images": 10,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Kafka 40 道 .pdf",
+      "category": "big-interview-3rd",
+      "pages": 16,
+      "text_chars": 0,
+      "images": 16,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Redis 60 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 19,
+      "text_chars": 0,
+      "images": 19,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Java 84 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 33,
+      "text_chars": 0,
+      "images": 33,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：SpringCloud 22 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 12,
+      "text_chars": 0,
+      "images": 12,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：MyBatis 27 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 18,
+      "text_chars": 0,
+      "images": 18,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：并发编程 70 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 39,
+      "text_chars": 0,
+      "images": 39,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Java 60 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 22,
+      "text_chars": 0,
+      "images": 22,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Redis 40 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 17,
+      "text_chars": 0,
+      "images": 17,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Vue 20 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 13,
+      "text_chars": 0,
+      "images": 13,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：并发编程 50 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 30,
+      "text_chars": 0,
+      "images": 30,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：MySQL 75 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 36,
+      "text_chars": 0,
+      "images": 36,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：MySQL 30 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 14,
+      "text_chars": 0,
+      "images": 14,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：SpringBoot 47.pdf",
+      "category": "big-interview-3rd",
+      "pages": 12,
+      "text_chars": 0,
+      "images": 12,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Vue 39 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 18,
+      "text_chars": 0,
+      "images": 18,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：kafka 18 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 10,
+      "text_chars": 0,
+      "images": 10,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：MongoDB 20 道 .pdf",
+      "category": "big-interview-3rd",
+      "pages": 5,
+      "text_chars": 0,
+      "images": 5,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Java 80 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 20,
+      "text_chars": 0,
+      "images": 20,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：MyBatis 40 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 30,
+      "text_chars": 0,
+      "images": 30,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Android 60 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 28,
+      "text_chars": 0,
+      "images": 28,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Kafka 17 道 .pdf",
+      "category": "big-interview-3rd",
+      "pages": 9,
+      "text_chars": 0,
+      "images": 9,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Python 50 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 24,
+      "text_chars": 0,
+      "images": 24,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：SpringBoot 55 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 21,
+      "text_chars": 0,
+      "images": 21,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Java 66 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 60,
+      "text_chars": 0,
+      "images": 60,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：React 60 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 24,
+      "text_chars": 0,
+      "images": 24,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：JavaScript 60道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 24,
+      "text_chars": 0,
+      "images": 24,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：JVM 45 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 22,
+      "text_chars": 0,
+      "images": 22,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：MongoDB 24 道 .pdf",
+      "category": "big-interview-3rd",
+      "pages": 4,
+      "text_chars": 0,
+      "images": 4,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：MongoDB 55 道 .pdf",
+      "category": "big-interview-3rd",
+      "pages": 13,
+      "text_chars": 0,
+      "images": 13,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：MySQL 70 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 42,
+      "text_chars": 0,
+      "images": 42,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：SpringBoot 33 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 13,
+      "text_chars": 0,
+      "images": 13,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：前端 17 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 10,
+      "text_chars": 0,
+      "images": 10,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Netty 35 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 29,
+      "text_chars": 0,
+      "images": 29,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Python 36 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 27,
+      "text_chars": 0,
+      "images": 27,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Vue 60 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 18,
+      "text_chars": 0,
+      "images": 18,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Redis 45 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 18,
+      "text_chars": 0,
+      "images": 18,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Linux 70 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 15,
+      "text_chars": 0,
+      "images": 15,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Elasticsearch 25 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 20,
+      "text_chars": 0,
+      "images": 20,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：JVM 38 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 17,
+      "text_chars": 0,
+      "images": 17,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：SpringBoot 50 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 17,
+      "text_chars": 0,
+      "images": 17,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：SpringBoot 31 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 12,
+      "text_chars": 0,
+      "images": 12,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Java 核心知识.pdf",
+      "category": "big-interview-3rd",
+      "pages": 283,
+      "text_chars": 353667,
+      "images": 187,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Java 47 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 37,
+      "text_chars": 0,
+      "images": 37,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：大数据 40 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 22,
+      "text_chars": 0,
+      "images": 22,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Python 55 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 30,
+      "text_chars": 0,
+      "images": 30,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：前端 50 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 22,
+      "text_chars": 0,
+      "images": 22,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：大数据 80 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 36,
+      "text_chars": 0,
+      "images": 36,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Nginx 20 道 .pdf",
+      "category": "big-interview-3rd",
+      "pages": 17,
+      "text_chars": 0,
+      "images": 17,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：JVM 18 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 17,
+      "text_chars": 0,
+      "images": 17,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Netty 17 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 22,
+      "text_chars": 0,
+      "images": 22,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：SpringBoot 35 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 12,
+      "text_chars": 0,
+      "images": 12,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Nginx 18 道 .pdf",
+      "category": "big-interview-3rd",
+      "pages": 5,
+      "text_chars": 0,
+      "images": 5,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Java 17道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 10,
+      "text_chars": 0,
+      "images": 10,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Dubbo 32 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 7,
+      "text_chars": 0,
+      "images": 7,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：React 45 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 39,
+      "text_chars": 0,
+      "images": 39,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Linux 100 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 34,
+      "text_chars": 0,
+      "images": 34,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：SpringCloud 25 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 13,
+      "text_chars": 0,
+      "images": 13,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Python 48 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 23,
+      "text_chars": 0,
+      "images": 23,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Android 45 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 24,
+      "text_chars": 0,
+      "images": 24,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Vue 23 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 18,
+      "text_chars": 0,
+      "images": 18,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：HTTP 60 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 32,
+      "text_chars": 0,
+      "images": 32,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：MySQL 50 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 24,
+      "text_chars": 0,
+      "images": 24,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：并发编程 75 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 41,
+      "text_chars": 0,
+      "images": 41,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：并发编程 48 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 20,
+      "text_chars": 0,
+      "images": 20,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：JavaScript 50道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 26,
+      "text_chars": 0,
+      "images": 26,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：MongoDB 45 道 .pdf",
+      "category": "big-interview-3rd",
+      "pages": 9,
+      "text_chars": 0,
+      "images": 9,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Oracle 50 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 11,
+      "text_chars": 0,
+      "images": 11,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：MySQL 18道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 8,
+      "text_chars": 0,
+      "images": 8,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：RabbitMQ 23 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 23,
+      "text_chars": 0,
+      "images": 23,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Dubbo 30 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 13,
+      "text_chars": 0,
+      "images": 13,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Linux 52 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 26,
+      "text_chars": 0,
+      "images": 26,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Spring 65 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 21,
+      "text_chars": 0,
+      "images": 21,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Oracle 45 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 12,
+      "text_chars": 0,
+      "images": 12,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：MySQL 45 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 20,
+      "text_chars": 0,
+      "images": 20,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Kafka 50 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 15,
+      "text_chars": 0,
+      "images": 15,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Spring 70 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 21,
+      "text_chars": 0,
+      "images": 21,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：HTML 80 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 36,
+      "text_chars": 0,
+      "images": 36,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：React 17 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 26,
+      "text_chars": 0,
+      "images": 26,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：ZooKeeper 23 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 16,
+      "text_chars": 0,
+      "images": 16,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：JVM 32 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 24,
+      "text_chars": 0,
+      "images": 24,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：JVM 77 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 36,
+      "text_chars": 0,
+      "images": 36,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Redis 35 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 20,
+      "text_chars": 0,
+      "images": 20,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Linux 45 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 20,
+      "text_chars": 0,
+      "images": 20,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Dubbo 27 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 10,
+      "text_chars": 0,
+      "images": 10,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：SpringBoot 20 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 8,
+      "text_chars": 0,
+      "images": 8,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：SpringCloud 29 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 12,
+      "text_chars": 0,
+      "images": 12,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Java 72 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 49,
+      "text_chars": 0,
+      "images": 49,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：JavaScript 24道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 20,
+      "text_chars": 0,
+      "images": 20,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：ZooKeeper 38 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 24,
+      "text_chars": 0,
+      "images": 24,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：JavaScript 45 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 25,
+      "text_chars": 0,
+      "images": 25,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：ZooKeeper 40 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 10,
+      "text_chars": 0,
+      "images": 10,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Elasticsearch 34 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 28,
+      "text_chars": 0,
+      "images": 28,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：SpringBoot 38.pdf",
+      "category": "big-interview-3rd",
+      "pages": 12,
+      "text_chars": 0,
+      "images": 12,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：React 35 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 17,
+      "text_chars": 0,
+      "images": 17,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：RabbitMQ 30 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 10,
+      "text_chars": 0,
+      "images": 10,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Linux 41 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 32,
+      "text_chars": 0,
+      "images": 32,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Memcached 23 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 16,
+      "text_chars": 0,
+      "images": 16,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Python 80 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 34,
+      "text_chars": 0,
+      "images": 34,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Android 35 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 15,
+      "text_chars": 0,
+      "images": 15,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：前端 45 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 20,
+      "text_chars": 0,
+      "images": 20,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：kafka 35 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 22,
+      "text_chars": 0,
+      "images": 22,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Java 50 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 55,
+      "text_chars": 0,
+      "images": 55,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Dubbo 64 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 29,
+      "text_chars": 0,
+      "images": 29,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：并发编程 80 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 40,
+      "text_chars": 0,
+      "images": 40,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Oracle 20 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 5,
+      "text_chars": 0,
+      "images": 5,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Redis 50 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 17,
+      "text_chars": 0,
+      "images": 17,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：JavaScript 43 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 45,
+      "text_chars": 0,
+      "images": 45,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：HTML 18 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 13,
+      "text_chars": 0,
+      "images": 13,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Netty 20 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 16,
+      "text_chars": 0,
+      "images": 16,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Dubbo 38 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 18,
+      "text_chars": 0,
+      "images": 18,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：前端 40 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 30,
+      "text_chars": 0,
+      "images": 30,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：大数据 50 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 9,
+      "text_chars": 0,
+      "images": 9,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：HTML 35道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 14,
+      "text_chars": 0,
+      "images": 14,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：MySQL 62 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 31,
+      "text_chars": 0,
+      "images": 31,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：MyBatis 10 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 4,
+      "text_chars": 0,
+      "images": 4,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：SpringCloud 50 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 25,
+      "text_chars": 0,
+      "images": 25,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：JVM 50 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 33,
+      "text_chars": 0,
+      "images": 33,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Vue 37 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 19,
+      "text_chars": 0,
+      "images": 19,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：大数据 76 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 27,
+      "text_chars": 0,
+      "images": 27,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Vue 35 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 33,
+      "text_chars": 0,
+      "images": 33,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Spring 55 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 29,
+      "text_chars": 0,
+      "images": 29,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Netty 25 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 10,
+      "text_chars": 0,
+      "images": 10,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：HTML 20 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 9,
+      "text_chars": 0,
+      "images": 9,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：MyBatis 36 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 18,
+      "text_chars": 0,
+      "images": 18,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Java 95 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 116,
+      "text_chars": 0,
+      "images": 116,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Dubbo 19 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 8,
+      "text_chars": 0,
+      "images": 8,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：SpringBoot 23 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 7,
+      "text_chars": 0,
+      "images": 7,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Java 55 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 15,
+      "text_chars": 0,
+      "images": 15,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Spring 30 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 14,
+      "text_chars": 0,
+      "images": 14,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：C# 19道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 20,
+      "text_chars": 0,
+      "images": 20,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：MySQL 40 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 36,
+      "text_chars": 0,
+      "images": 36,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：SpringMVC 35 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 14,
+      "text_chars": 0,
+      "images": 14,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Java 30 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 8,
+      "text_chars": 0,
+      "images": 8,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Oracle 40 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 28,
+      "text_chars": 0,
+      "images": 28,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：MySQL 80 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 56,
+      "text_chars": 0,
+      "images": 56,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：SpringCloud 70 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 24,
+      "text_chars": 0,
+      "images": 24,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：RabbitMQ 50 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 23,
+      "text_chars": 0,
+      "images": 23,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：SpringBoot 44 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 17,
+      "text_chars": 0,
+      "images": 17,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：JavaScript 80 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 85,
+      "text_chars": 0,
+      "images": 85,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：前端 60 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 41,
+      "text_chars": 0,
+      "images": 41,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：SpringBoot 25 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 13,
+      "text_chars": 0,
+      "images": 13,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Nginx 19 道 .pdf",
+      "category": "big-interview-3rd",
+      "pages": 5,
+      "text_chars": 0,
+      "images": 5,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Java 16 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 5,
+      "text_chars": 0,
+      "images": 5,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Elasticsearch 28 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 11,
+      "text_chars": 0,
+      "images": 11,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：MyBatis 14 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 7,
+      "text_chars": 0,
+      "images": 7,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Elasticsearch 50 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 20,
+      "text_chars": 0,
+      "images": 20,
+      "status": "success"
+    },
+    {
+      "source": "第3版：互联网大厂面试题 - 电子版/第三版：Linux 40 道.pdf",
+      "category": "big-interview-3rd",
+      "pages": 17,
+      "text_chars": 0,
+      "images": 17,
+      "status": "success"
+    }
+  ],
+  "total": 386,
+  "categories": {
+    "root-pdfs": [
+      [
+        "最新面试文档",
+        "root-pdfs/最新面试文档.md"
+      ],
+      [
+        "阿里内部10万字总结java面试题和答案",
+        "root-pdfs/阿里内部10万字总结java面试题和答案.md"
+      ],
+      [
+        "JAVA核心知识点整理（283页，超级详细）",
+        "root-pdfs/JAVA核心知识点整理_283页，超级详细.md"
+      ],
+      [
+        "advanced-java",
+        "root-pdfs/advanced-java.md"
+      ]
+    ],
+    "note/middleware": [
+      [
+        "kafka44知识点（基础+进阶+高阶）",
+        "note/middleware/kafka44知识点_基础+进阶+高阶.md"
+      ],
+      [
+        "Kafka面试题",
+        "note/middleware/Kafka面试题.md"
+      ],
+      [
+        "java面试题_消息中间件--RabbitMQ(20题)",
+        "note/middleware/java面试题_消息中间件--RabbitMQ(20题).md"
+      ],
+      [
+        "RabbitMQ消息中间件面试题",
+        "note/middleware/RabbitMQ消息中间件面试题.md"
+      ],
+      [
+        "RabbitMQ面试题 22道",
+        "note/middleware/RabbitMQ面试题_22道.md"
+      ],
+      [
+        "RabbitMQ 补充 6道",
+        "note/middleware/RabbitMQ_补充_6道.md"
+      ],
+      [
+        "手写“Kafka笔记”",
+        "note/middleware/手写“Kafka笔记”.md"
+      ],
+      [
+        "Kafka知识汇总 18道",
+        "note/middleware/Kafka知识汇总_18道.md"
+      ],
+      [
+        "java面试题_消息中间件--RocketMq(14题)",
+        "note/middleware/java面试题_消息中间件--RocketMq(14题).md"
+      ]
+    ],
+    "note/company-interview": [
+      [
+        "腾讯篇",
+        "note/company-interview/腾讯篇.md"
+      ],
+      [
+        "百度篇",
+        "note/company-interview/百度篇.md"
+      ],
+      [
+        "美团篇",
+        "note/company-interview/美团篇.md"
+      ],
+      [
+        "滴滴篇",
+        "note/company-interview/滴滴篇.md"
+      ],
+      [
+        "京东篇",
+        "note/company-interview/京东篇.md"
+      ],
+      [
+        "【美团】Java 岗 154 道面试题",
+        "note/company-interview/【美团】Java_岗_154_道面试题.md"
+      ],
+      [
+        "头条篇",
+        "note/company-interview/头条篇.md"
+      ],
+      [
+        "华为篇",
+        "note/company-interview/华为篇.md"
+      ]
+    ],
+    "note/database": [
+      [
+        "MySQL高频面试题 10道",
+        "note/database/MySQL高频面试题_10道.md"
+      ],
+      [
+        "MySQL面试专题03 ",
+        "note/database/MySQL面试专题03.md"
+      ],
+      [
+        "MySQL面试题 40道",
+        "note/database/MySQL面试题_40道.md"
+      ],
+      [
+        "Redis高频面试题 ",
+        "note/database/Redis高频面试题.md"
+      ],
+      [
+        "Redis面试题五",
+        "note/database/Redis面试题五.md"
+      ],
+      [
+        "MySQL面试专题02 ",
+        "note/database/MySQL面试专题02.md"
+      ],
+      [
+        "MySQL面试题（含答案）",
+        "note/database/MySQL面试题_含答案.md"
+      ],
+      [
+        "Redis面试题四",
+        "note/database/Redis面试题四.md"
+      ],
+      [
+        "Redis面试题三",
+        "note/database/Redis面试题三.md"
+      ],
+      [
+        "Redis面试题 70道",
+        "note/database/Redis面试题_70道.md"
+      ],
+      [
+        "Redis面试题一",
+        "note/database/Redis面试题一.md"
+      ],
+      [
+        "Redis面试题（含答案）",
+        "note/database/Redis面试题_含答案.md"
+      ],
+      [
+        "Memcache 面试题  23道",
+        "note/database/Memcache_面试题_23道.md"
+      ],
+      [
+        "Redis面试题  42道",
+        "note/database/Redis面试题_42道.md"
+      ],
+      [
+        "Redis面试题二",
+        "note/database/Redis面试题二.md"
+      ],
+      [
+        "MySQL面试专题01",
+        "note/database/MySQL面试专题01.md"
+      ]
+    ],
+    "note/distributed": [
+      [
+        "Zookeeper篇",
+        "note/distributed/Zookeeper篇.md"
+      ],
+      [
+        "Dubbo面试题二",
+        "note/distributed/Dubbo面试题二.md"
+      ],
+      [
+        "Zookeeper面试题 28道",
+        "note/distributed/Zookeeper面试题_28道.md"
+      ],
+      [
+        "Dubbo面试题一(41题)",
+        "note/distributed/Dubbo面试题一(41题).md"
+      ],
+      [
+        "Dubbo服务框架面试题及答案",
+        "note/distributed/Dubbo服务框架面试题及答案.md"
+      ],
+      [
+        "Zookeeper面试题",
+        "note/distributed/Zookeeper面试题.md"
+      ],
+      [
+        "Dubbo面试题 47道",
+        "note/distributed/Dubbo面试题_47道.md"
+      ],
+      [
+        "Zookeeper面试题 20道",
+        "note/distributed/Zookeeper面试题_20道.md"
+      ],
+      [
+        "zookeeper面试专题",
+        "note/distributed/zookeeper面试专题.md"
+      ]
+    ],
+    "note/framework": [
+      [
+        "BIO,NIO,AIO,Netty面试题 35道",
+        "note/framework/BIO,NIO,AIO,Netty面试题_35道.md"
+      ],
+      [
+        "SpringBoot面试题 30道",
+        "note/framework/SpringBoot面试题_30道.md"
+      ],
+      [
+        "Tomcat面试题 14道",
+        "note/framework/Tomcat面试题_14道.md"
+      ],
+      [
+        "Spring面试题（含答案）",
+        "note/framework/Spring面试题_含答案.md"
+      ],
+      [
+        "SpringBoot面试题 44道",
+        "note/framework/SpringBoot面试题_44道.md"
+      ],
+      [
+        "MyBatis面试题 37道",
+        "note/framework/MyBatis面试题_37道.md"
+      ],
+      [
+        "MyBatis面试题一",
+        "note/framework/MyBatis面试题一.md"
+      ],
+      [
+        "Mybatis面试题（含答案）",
+        "note/framework/Mybatis面试题_含答案.md"
+      ],
+      [
+        "Spring面试题 75道",
+        "note/framework/Spring面试题_75道.md"
+      ],
+      [
+        "Tomcat优化相关面试问题",
+        "note/framework/Tomcat优化相关面试问题.md"
+      ],
+      [
+        "SpringBoot面试专题",
+        "note/framework/SpringBoot面试专题.md"
+      ],
+      [
+        "Mybatis面试题二",
+        "note/framework/Mybatis面试题二.md"
+      ],
+      [
+        "Netty面试题 20道",
+        "note/framework/Netty面试题_20道.md"
+      ],
+      [
+        "SpringCloud面试题 49道",
+        "note/framework/SpringCloud面试题_49道.md"
+      ],
+      [
+        "SpringCloud面试专题",
+        "note/framework/SpringCloud面试专题.md"
+      ],
+      [
+        "Tomcat综合面试题",
+        "note/framework/Tomcat综合面试题.md"
+      ],
+      [
+        "Netty综合面试题",
+        "note/framework/Netty综合面试题.md"
+      ],
+      [
+        "SpringMVC面试题 29道",
+        "note/framework/SpringMVC面试题_29道.md"
+      ]
+    ],
+    "note/other": [
+      [
+        "面试必备之乐观锁与悲观锁",
+        "note/other/面试必备之乐观锁与悲观锁.md"
+      ],
+      [
+        "TCP，UDP，Socket，Http网络编程面试题 47道",
+        "note/other/TCP，UDP，Socket，Http网络编程面试题_47道.md"
+      ],
+      [
+        "设计模式面试题 14道",
+        "note/other/设计模式面试题_14道.md"
+      ],
+      [
+        "2020年最新版--Java+最常见的+200++面试题汇总+答案总结汇总",
+        "note/other/2020年最新版--Java+最常见的+200++面试题汇总+答案总结汇总.md"
+      ]
+    ],
+    "note/java-basics": [
+      [
+        "Java基础面试题 91道",
+        "note/java-basics/Java基础面试题_91道.md"
+      ],
+      [
+        "Java集合面试题 52道",
+        "note/java-basics/Java集合面试题_52道.md"
+      ],
+      [
+        "Java异常面试题 33道",
+        "note/java-basics/Java异常面试题_33道.md"
+      ],
+      [
+        "JAVA核心面试知识整理",
+        "note/java-basics/JAVA核心面试知识整理.md"
+      ]
+    ],
+    "note/devops": [
+      [
+        "Git常用命令面试题 60道",
+        "note/devops/Git常用命令面试题_60道.md"
+      ],
+      [
+        "Nginx面试题 23道",
+        "note/devops/Nginx面试题_23道.md"
+      ],
+      [
+        "Linux面试题 50道",
+        "note/devops/Linux面试题_50道.md"
+      ],
+      [
+        "Nginx面试题一",
+        "note/devops/Nginx面试题一.md"
+      ],
+      [
+        "Nginx面试题二",
+        "note/devops/Nginx面试题二.md"
+      ]
+    ],
+    "note/data-engineer": [
+      [
+        "大数据面试题 100道",
+        "note/data-engineer/大数据面试题_100道.md"
+      ],
+      [
+        "ElasticSearch面试题 30道",
+        "note/data-engineer/ElasticSearch面试题_30道.md"
+      ]
+    ],
+    "note/jvm": [
+      [
+        "JVM常见面试题指南",
+        "note/jvm/JVM常见面试题指南.md"
+      ],
+      [
+        "Java虚拟机（JVM）面试题 51道",
+        "note/jvm/Java虚拟机_JVM_面试题_51道.md"
+      ],
+      [
+        "JVM常见面试题解析",
+        "note/jvm/JVM常见面试题解析.md"
+      ]
+    ],
+    "note/concurrency": [
+      [
+        "Java并发编程最全面试题 123道",
+        "note/concurrency/Java并发编程最全面试题_123道.md"
+      ],
+      [
+        "多线程面试59题（含答案）",
+        "note/concurrency/多线程面试59题_含答案.md"
+      ]
+    ],
+    "java-interview-core": [
+      [
+        "1.670道",
+        "java-interview-core/1.670道.md"
+      ],
+      [
+        "3.358道",
+        "java-interview-core/3.358道.md"
+      ],
+      [
+        "2.630道",
+        "java-interview-core/2.630道.md"
+      ]
+    ],
+    "company-questions/bank-219": [
+      [
+        "06、腾讯(18问)",
+        "company-questions/bank-219/06、腾讯(18问).md"
+      ],
+      [
+        "03、中国平安(48问)",
+        "company-questions/bank-219/03、中国平安(48问).md"
+      ],
+      [
+        "04、乐信(25问)",
+        "company-questions/bank-219/04、乐信(25问).md"
+      ],
+      [
+        "07、oppo(36问)",
+        "company-questions/bank-219/07、oppo(36问).md"
+      ],
+      [
+        "02、商汤科技(20问)",
+        "company-questions/bank-219/02、商汤科技(20问).md"
+      ],
+      [
+        "08、阿里巴巴—蚂蚁金服(6问)",
+        "company-questions/bank-219/08、阿里巴巴—蚂蚁金服(6问).md"
+      ],
+      [
+        "05、银盛支付(15问)",
+        "company-questions/bank-219/05、银盛支付(15问).md"
+      ],
+      [
+        "01、丰巢科技(51问)",
+        "company-questions/bank-219/01、丰巢科技(51问).md"
+      ]
+    ],
+    "company-questions/bank-368": [
+      [
+        "08.2、消息中间件--kafka(5题)",
+        "company-questions/bank-368/08.2、消息中间件--kafka(5题).md"
+      ],
+      [
+        "17、Java.进入IT企业必读的324个JAVA面试题",
+        "company-questions/bank-368/17、Java.进入IT企业必读的324个JAVA面试题.md"
+      ],
+      [
+        "01、Java基础(35题)",
+        "company-questions/bank-368/01、Java基础(35题).md"
+      ],
+      [
+        "10、linux命令(14题)",
+        "company-questions/bank-368/10、linux命令(14题).md"
+      ],
+      [
+        "04.2、微服务—SpringCloud(20题)",
+        "company-questions/bank-368/04.2、微服务—SpringCloud(20题).md"
+      ],
+      [
+        "04.1、微服务--dubbo(41题)",
+        "company-questions/bank-368/04.1、微服务--dubbo(41题).md"
+      ],
+      [
+        "04.0、多线程(68题)",
+        "company-questions/bank-368/04.0、多线程(68题).md"
+      ],
+      [
+        "06.1、框架—Spring(14题)",
+        "company-questions/bank-368/06.1、框架—Spring(14题).md"
+      ],
+      [
+        "05、数据结构与算法(10题)",
+        "company-questions/bank-368/05、数据结构与算法(10题).md"
+      ],
+      [
+        "11、网络(13题)",
+        "company-questions/bank-368/11、网络(13题).md"
+      ],
+      [
+        "03、设计模式(26题)",
+        "company-questions/bank-368/03、设计模式(26题).md"
+      ],
+      [
+        "13、源码解读(3题)",
+        "company-questions/bank-368/13、源码解读(3题).md"
+      ],
+      [
+        "09、缓存(10题)",
+        "company-questions/bank-368/09、缓存(10题).md"
+      ],
+      [
+        "16、总结(3题)",
+        "company-questions/bank-368/16、总结(3题).md"
+      ],
+      [
+        "0.1、高频题",
+        "company-questions/bank-368/0.1、高频题.md"
+      ],
+      [
+        "15、系统解决方案(4题)",
+        "company-questions/bank-368/15、系统解决方案(4题).md"
+      ],
+      [
+        "06.2、框架—其他(12题)",
+        "company-questions/bank-368/06.2、框架—其他(12题).md"
+      ],
+      [
+        "07、数据库(13题)",
+        "company-questions/bank-368/07、数据库(13题).md"
+      ],
+      [
+        "14、大数据(3题)",
+        "company-questions/bank-368/14、大数据(3题).md"
+      ],
+      [
+        "02、jvm(21题)",
+        "company-questions/bank-368/02、jvm(21题).md"
+      ],
+      [
+        "12、高并发、高可用、分布式(9题)",
+        "company-questions/bank-368/12、高并发、高可用、分布式(9题).md"
+      ],
+      [
+        "08.3、消息中间件--RocketMq(14题)",
+        "company-questions/bank-368/08.3、消息中间件--RocketMq(14题).md"
+      ],
+      [
+        "0.1、知识点",
+        "company-questions/bank-368/0.1、知识点.md"
+      ],
+      [
+        "08.1、消息中间件--RabbitMQ(20题)",
+        "company-questions/bank-368/08.1、消息中间件--RabbitMQ(20题).md"
+      ]
+    ],
+    "interview-questions/company": [
+      [
+        "2020互联网Java企业面试真题合辑（上）",
+        "interview-questions/company/2020互联网Java企业面试真题合辑_上.md"
+      ],
+      [
+        "2020互联网Java企业面试真题合辑（下）",
+        "interview-questions/company/2020互联网Java企业面试真题合辑_下.md"
+      ],
+      [
+        "20200313-杭州-阿里云-Java实习生",
+        "interview-questions/company/20200313-杭州-阿里云-Java实习生.md"
+      ],
+      [
+        "20200320-北京-京东-Java实习生",
+        "interview-questions/company/20200320-北京-京东-Java实习生.md"
+      ],
+      [
+        "20200319-上海-拼多多-Java高级",
+        "interview-questions/company/20200319-上海-拼多多-Java高级.md"
+      ],
+      [
+        "20191020-南京-软通动力-Java初级",
+        "interview-questions/company/20191020-南京-软通动力-Java初级.md"
+      ],
+      [
+        "20190928-深圳-OPPO-Java高级",
+        "interview-questions/company/20190928-深圳-OPPO-Java高级.md"
+      ],
+      [
+        "20190813-深圳-银盛支付-Java中级",
+        "interview-questions/company/20190813-深圳-银盛支付-Java中级.md"
+      ],
+      [
+        "20200318-杭州-蚂蚁金服-Java高级",
+        "interview-questions/company/20200318-杭州-蚂蚁金服-Java高级.md"
+      ],
+      [
+        "20191104-深圳-腾讯-Java高级",
+        "interview-questions/company/20191104-深圳-腾讯-Java高级.md"
+      ],
+      [
+        "20190806-深圳-中国平安-Java中级",
+        "interview-questions/company/20190806-深圳-中国平安-Java中级.md"
+      ],
+      [
+        "20191025-杭州-蚂蚁金服-资深工程师",
+        "interview-questions/company/20191025-杭州-蚂蚁金服-资深工程师.md"
+      ],
+      [
+        "20200215-深圳-蚂蚁金服-Java高级",
+        "interview-questions/company/20200215-深圳-蚂蚁金服-Java高级.md"
+      ],
+      [
+        "20200112-深圳-丰巢科技-Java高级",
+        "interview-questions/company/20200112-深圳-丰巢科技-Java高级.md"
+      ],
+      [
+        "20191212-深圳-商汤科技-Java高级",
+        "interview-questions/company/20191212-深圳-商汤科技-Java高级.md"
+      ],
+      [
+        "20200313-上海-携程-Java高级",
+        "interview-questions/company/20200313-上海-携程-Java高级.md"
+      ],
+      [
+        "20191123-深圳-乐信-Java高级",
+        "interview-questions/company/20191123-深圳-乐信-Java高级.md"
+      ],
+      [
+        "20200322-厦门-中软国际-Java初级",
+        "interview-questions/company/20200322-厦门-中软国际-Java初级.md"
+      ],
+      [
+        "20200306-广州-唯品会-Java大数据开发工程师",
+        "interview-questions/company/20200306-广州-唯品会-Java大数据开发工程师.md"
+      ],
+      [
+        "20200311-北京-百度-Java中级",
+        "interview-questions/company/20200311-北京-百度-Java中级.md"
+      ]
+    ],
+    "interview-questions/by-topic": [
+      [
+        "06_JVM_面试专题及答案（下）",
+        "interview-questions/by-topic/06_JVM_面试专题及答案_下.md"
+      ],
+      [
+        "32_数据结构与算法_面试专题及答案",
+        "interview-questions/by-topic/32_数据结构与算法_面试专题及答案.md"
+      ],
+      [
+        "05_JVM_面试专题及答案（上）",
+        "interview-questions/by-topic/05_JVM_面试专题及答案_上.md"
+      ],
+      [
+        "15_Redis_面试专题及答案（上）",
+        "interview-questions/by-topic/15_Redis_面试专题及答案_上.md"
+      ],
+      [
+        "30_Linux_面试专题及答案",
+        "interview-questions/by-topic/30_Linux_面试专题及答案.md"
+      ],
+      [
+        "31_设计模式_面试专题及答案",
+        "interview-questions/by-topic/31_设计模式_面试专题及答案.md"
+      ],
+      [
+        "14_MongoDB_面试专题及答案",
+        "interview-questions/by-topic/14_MongoDB_面试专题及答案.md"
+      ],
+      [
+        "12_MySQL_面试专题及答案（下）",
+        "interview-questions/by-topic/12_MySQL_面试专题及答案_下.md"
+      ],
+      [
+        "20_SpringBoot_面试专题及答案",
+        "interview-questions/by-topic/20_SpringBoot_面试专题及答案.md"
+      ],
+      [
+        "34_人事问题_面试专题及答案",
+        "interview-questions/by-topic/34_人事问题_面试专题及答案.md"
+      ],
+      [
+        "25_ActiveMQ_面试专题及答案",
+        "interview-questions/by-topic/25_ActiveMQ_面试专题及答案.md"
+      ],
+      [
+        "02_Java集合_面试专题及答案 ",
+        "interview-questions/by-topic/02_Java集合_面试专题及答案.md"
+      ],
+      [
+        "27_Kafka_面试专题及答案",
+        "interview-questions/by-topic/27_Kafka_面试专题及答案.md"
+      ],
+      [
+        "07_Tomcat_面试专题及答案（上）",
+        "interview-questions/by-topic/07_Tomcat_面试专题及答案_上.md"
+      ],
+      [
+        "13_SQL优化_面试专题及答案",
+        "interview-questions/by-topic/13_SQL优化_面试专题及答案.md"
+      ],
+      [
+        "33_计算机网络_面试专题及答案",
+        "interview-questions/by-topic/33_计算机网络_面试专题及答案.md"
+      ],
+      [
+        "21_SpringCloud_面试专题及答案",
+        "interview-questions/by-topic/21_SpringCloud_面试专题及答案.md"
+      ],
+      [
+        "28_消息中间件_面试专题及答案",
+        "interview-questions/by-topic/28_消息中间件_面试专题及答案.md"
+      ],
+      [
+        "29_Netty_面试专题及答案",
+        "interview-questions/by-topic/29_Netty_面试专题及答案.md"
+      ],
+      [
+        "08_Tomcat_面试专题及答案（下）",
+        "interview-questions/by-topic/08_Tomcat_面试专题及答案_下.md"
+      ],
+      [
+        "26_RabbitMQ_面试专题及答案",
+        "interview-questions/by-topic/26_RabbitMQ_面试专题及答案.md"
+      ],
+      [
+        "22_Dubbo_面试专题及答案（上）",
+        "interview-questions/by-topic/22_Dubbo_面试专题及答案_上.md"
+      ],
+      [
+        "01_Java语法基础_面试专题及答案",
+        "interview-questions/by-topic/01_Java语法基础_面试专题及答案.md"
+      ],
+      [
+        "24_Zookeeper_面试专题及答案",
+        "interview-questions/by-topic/24_Zookeeper_面试专题及答案.md"
+      ],
+      [
+        "19_MyBatis_面试专题及答案",
+        "interview-questions/by-topic/19_MyBatis_面试专题及答案.md"
+      ],
+      [
+        "13_Memcached_面试专题及答案",
+        "interview-questions/by-topic/13_Memcached_面试专题及答案.md"
+      ],
+      [
+        "04_并发编程_面试专题及答案（下）",
+        "interview-questions/by-topic/04_并发编程_面试专题及答案_下.md"
+      ],
+      [
+        "03_并发编程_面试专题及答案（上）",
+        "interview-questions/by-topic/03_并发编程_面试专题及答案_上.md"
+      ],
+      [
+        "16_Redis_面试专题及答案（下）",
+        "interview-questions/by-topic/16_Redis_面试专题及答案_下.md"
+      ],
+      [
+        "18_SpringMVC_面试专题及答案",
+        "interview-questions/by-topic/18_SpringMVC_面试专题及答案.md"
+      ],
+      [
+        "09_Nginx_面试专题及答案",
+        "interview-questions/by-topic/09_Nginx_面试专题及答案.md"
+      ],
+      [
+        "17_Spring_面试专题及答案",
+        "interview-questions/by-topic/17_Spring_面试专题及答案.md"
+      ],
+      [
+        "10_数据库_面试专题及答案",
+        "interview-questions/by-topic/10_数据库_面试专题及答案.md"
+      ],
+      [
+        "23_Dubbo_面试专题及答案（下）",
+        "interview-questions/by-topic/23_Dubbo_面试专题及答案_下.md"
+      ],
+      [
+        "11_MySQL_面试专题及答案（上）",
+        "interview-questions/by-topic/11_MySQL_面试专题及答案_上.md"
+      ]
+    ],
+    "interview-questions/exam-packs": [
+      [
+        "Java程序员面试笔试宝典",
+        "interview-questions/exam-packs/Java程序员面试笔试宝典.md"
+      ],
+      [
+        "互联网Java企业笔试真题大全 - 最新版",
+        "interview-questions/exam-packs/互联网Java企业笔试真题大全_-_最新版.md"
+      ]
+    ],
+    "java3y/interview": [
+      [
+        "对线面试官-明亮版",
+        "java3y/interview/对线面试官-明亮版.md"
+      ],
+      [
+        "对线面试官-暗黑版",
+        "java3y/interview/对线面试官-暗黑版.md"
+      ]
+    ],
+    "java3y/resume-templates": [
+      [
+        "如何写简历",
+        "java3y/resume-templates/如何写简历.md"
+      ],
+      [
+        "GitHub文档简历Demo",
+        "java3y/resume-templates/GitHub文档简历Demo.md"
+      ]
+    ],
+    "java3y/ebooks": [
+      [
+        "三歪教你学Servlet",
+        "java3y/ebooks/三歪教你学Servlet.md"
+      ],
+      [
+        "三歪教你学JSP",
+        "java3y/ebooks/三歪教你学JSP.md"
+      ],
+      [
+        "三歪教你学习过滤器和监听器",
+        "java3y/ebooks/三歪教你学习过滤器和监听器.md"
+      ],
+      [
+        "三歪教你学JDBC",
+        "java3y/ebooks/三歪教你学JDBC.md"
+      ],
+      [
+        "三歪教你学Java集合(1)",
+        "java3y/ebooks/三歪教你学Java集合(1).md"
+      ],
+      [
+        "三歪教你Spring",
+        "java3y/ebooks/三歪教你Spring.md"
+      ],
+      [
+        "三歪教你学HTTP",
+        "java3y/ebooks/三歪教你学HTTP.md"
+      ],
+      [
+        "三歪教你学排序和数据结构",
+        "java3y/ebooks/三歪教你学排序和数据结构.md"
+      ],
+      [
+        "三歪教你学SpringMVC",
+        "java3y/ebooks/三歪教你学SpringMVC.md"
+      ],
+      [
+        "三歪教你学Mybatis",
+        "java3y/ebooks/三歪教你学Mybatis.md"
+      ],
+      [
+        "三歪教你学多线程",
+        "java3y/ebooks/三歪教你学多线程.md"
+      ]
+    ],
+    "algorithm": [
+      [
+        "「代码随想录」回溯算法精讲（v2.0）",
+        "algorithm/「代码随想录」回溯算法精讲_v2.0.md"
+      ],
+      [
+        "「代码随想录」程序员求职攻略（v2.0）",
+        "algorithm/「代码随想录」程序员求职攻略_v2.0.md"
+      ],
+      [
+        "「代码随想录」动态规划专题精讲（v2.0）",
+        "algorithm/「代码随想录」动态规划专题精讲_v2.0.md"
+      ],
+      [
+        "「代码随想录」二叉树专题精讲（v2.0）",
+        "algorithm/「代码随想录」二叉树专题精讲_v2.0.md"
+      ],
+      [
+        "必读v1",
+        "algorithm/必读v1.md"
+      ],
+      [
+        "「代码随想录」贪心算法专题精讲（v2.0）",
+        "algorithm/「代码随想录」贪心算法专题精讲_v2.0.md"
+      ]
+    ],
+    "javaguide/interview-guide": [
+      [
+        "字节、阿里、用友、美团、荣耀面经整理",
+        "javaguide/interview-guide/字节、阿里、用友、美团、荣耀面经整理.md"
+      ],
+      [
+        "消息队列常见面试题夜间版",
+        "javaguide/interview-guide/消息队列常见面试题夜间版.md"
+      ],
+      [
+        "消息队列常见面试题",
+        "javaguide/interview-guide/消息队列常见面试题.md"
+      ],
+      [
+        "技术面试常见智力题",
+        "javaguide/interview-guide/技术面试常见智力题.md"
+      ],
+      [
+        "分布式相关面试题汇总",
+        "javaguide/interview-guide/分布式相关面试题汇总.md"
+      ],
+      [
+        "JavaGuide面试突击版5.0(暗黑版)",
+        "javaguide/interview-guide/JavaGuide面试突击版5.0(暗黑版).md"
+      ],
+      [
+        "JavaGuide面试突击版5.0",
+        "javaguide/interview-guide/JavaGuide面试突击版5.0.md"
+      ],
+      [
+        "JavaGuide面试突击版4.0(暗黑模式)",
+        "javaguide/interview-guide/JavaGuide面试突击版4.0(暗黑模式).md"
+      ],
+      [
+        "JavaGuide面试突击版4.0",
+        "javaguide/interview-guide/JavaGuide面试突击版4.0.md"
+      ]
+    ],
+    "javaguide/jvm": [
+      [
+        "深入理解Java虚拟机：（第3版)",
+        "javaguide/jvm/深入理解Java虚拟机-_第3版).md"
+      ],
+      [
+        "JVM之问5.0（球友分享）",
+        "javaguide/jvm/JVM之问5.0_球友分享.md"
+      ]
+    ],
+    "javaguide/design-patterns": [
+      [
+        "设计模式面试题汇总",
+        "javaguide/design-patterns/设计模式面试题汇总.md"
+      ]
+    ],
+    "javaguide/learning-roadmap": [
+      [
+        "测试",
+        "javaguide/learning-roadmap/测试.md"
+      ],
+      [
+        "游戏",
+        "javaguide/learning-roadmap/游戏.md"
+      ],
+      [
+        "人工智能",
+        "javaguide/learning-roadmap/人工智能.md"
+      ]
+    ],
+    "javaguide/leetcode": [
+      [
+        "Leetcode-Go",
+        "javaguide/leetcode/Leetcode-Go.md"
+      ],
+      [
+        "LeetCode 101 - A LeetCode Grinding Guide (C++ Version)",
+        "javaguide/leetcode/LeetCode_101_-_A_LeetCode_Grinding_Guide_(C++_Version).md"
+      ],
+      [
+        "Leetcode-CPP",
+        "javaguide/leetcode/Leetcode-CPP.md"
+      ]
+    ],
+    "javaguide/java-basics": [
+      [
+        "字节大佬总结的Java面试资料",
+        "javaguide/java-basics/字节大佬总结的Java面试资料.md"
+      ],
+      [
+        "Java集合框架常见面试题夜间阅读版",
+        "javaguide/java-basics/Java集合框架常见面试题夜间阅读版.md"
+      ],
+      [
+        "Java基础知识篇",
+        "javaguide/java-basics/Java基础知识篇.md"
+      ],
+      [
+        "Java集合框架常见面试题",
+        "javaguide/java-basics/Java集合框架常见面试题.md"
+      ],
+      [
+        "Java 工程师进阶知识完全扫盲",
+        "javaguide/java-basics/Java_工程师进阶知识完全扫盲.md"
+      ]
+    ],
+    "javaguide/middleware": [
+      [
+        "RocketMQ 从入门到实战",
+        "javaguide/middleware/RocketMQ_从入门到实战.md"
+      ],
+      [
+        "RocketMQ源码解析",
+        "javaguide/middleware/RocketMQ源码解析.md"
+      ]
+    ],
+    "javaguide/computer-basics": [
+      [
+        "图解操作系统",
+        "javaguide/computer-basics/图解操作系统.md"
+      ],
+      [
+        "图解HTTP",
+        "javaguide/computer-basics/图解HTTP.md"
+      ],
+      [
+        "图解计算机基础",
+        "javaguide/computer-basics/图解计算机基础.md"
+      ],
+      [
+        "亮白风格-图解网络",
+        "javaguide/computer-basics/亮白风格-图解网络.md"
+      ],
+      [
+        "暗黑风格-图解网络",
+        "javaguide/computer-basics/暗黑风格-图解网络.md"
+      ],
+      [
+        "图解系统-暗黑风格",
+        "javaguide/computer-basics/图解系统-暗黑风格.md"
+      ],
+      [
+        "Leetcode-Go",
+        "javaguide/computer-basics/Leetcode-Go.md"
+      ],
+      [
+        "LeetCode 101 - A LeetCode Grinding Guide (C++ Version)",
+        "javaguide/computer-basics/LeetCode_101_-_A_LeetCode_Grinding_Guide_(C++_Version).md"
+      ],
+      [
+        "Leetcode-CPP",
+        "javaguide/computer-basics/Leetcode-CPP.md"
+      ]
+    ],
+    "big-interview-3rd": [
+      [
+        "第三版：Nginx 34 道 ",
+        "big-interview-3rd/第三版-Nginx_34_道.md"
+      ],
+      [
+        "第三版：Python 70 道",
+        "big-interview-3rd/第三版-Python_70_道.md"
+      ],
+      [
+        "第三版：ZooKeeper 28 道",
+        "big-interview-3rd/第三版-ZooKeeper_28_道.md"
+      ],
+      [
+        "第三版：HTTP 20 道",
+        "big-interview-3rd/第三版-HTTP_20_道.md"
+      ],
+      [
+        "第三版：RabbitMQ 45 道",
+        "big-interview-3rd/第三版-RabbitMQ_45_道.md"
+      ],
+      [
+        "第三版：Android 40 道",
+        "big-interview-3rd/第三版-Android_40_道.md"
+      ],
+      [
+        "第三版：SpringCloud 20 道",
+        "big-interview-3rd/第三版-SpringCloud_20_道.md"
+      ],
+      [
+        "第三版：JVM 20 道",
+        "big-interview-3rd/第三版-JVM_20_道.md"
+      ],
+      [
+        "第三版：Redis 27道",
+        "big-interview-3rd/第三版-Redis_27道.md"
+      ],
+      [
+        "第三版：Kafka 40 道 ",
+        "big-interview-3rd/第三版-Kafka_40_道.md"
+      ],
+      [
+        "第三版：Redis 60 道",
+        "big-interview-3rd/第三版-Redis_60_道.md"
+      ],
+      [
+        "第三版：Java 84 道",
+        "big-interview-3rd/第三版-Java_84_道.md"
+      ],
+      [
+        "第三版：SpringCloud 22 道",
+        "big-interview-3rd/第三版-SpringCloud_22_道.md"
+      ],
+      [
+        "第三版：MyBatis 27 道",
+        "big-interview-3rd/第三版-MyBatis_27_道.md"
+      ],
+      [
+        "第三版：并发编程 70 道",
+        "big-interview-3rd/第三版-并发编程_70_道.md"
+      ],
+      [
+        "第三版：Java 60 道",
+        "big-interview-3rd/第三版-Java_60_道.md"
+      ],
+      [
+        "第三版：Redis 40 道",
+        "big-interview-3rd/第三版-Redis_40_道.md"
+      ],
+      [
+        "第三版：Vue 20 道",
+        "big-interview-3rd/第三版-Vue_20_道.md"
+      ],
+      [
+        "第三版：并发编程 50 道",
+        "big-interview-3rd/第三版-并发编程_50_道.md"
+      ],
+      [
+        "第三版：MySQL 75 道",
+        "big-interview-3rd/第三版-MySQL_75_道.md"
+      ],
+      [
+        "第三版：MySQL 30 道",
+        "big-interview-3rd/第三版-MySQL_30_道.md"
+      ],
+      [
+        "第三版：SpringBoot 47",
+        "big-interview-3rd/第三版-SpringBoot_47.md"
+      ],
+      [
+        "第三版：Vue 39 道",
+        "big-interview-3rd/第三版-Vue_39_道.md"
+      ],
+      [
+        "第三版：kafka 18 道",
+        "big-interview-3rd/第三版-kafka_18_道.md"
+      ],
+      [
+        "第三版：MongoDB 20 道 ",
+        "big-interview-3rd/第三版-MongoDB_20_道.md"
+      ],
+      [
+        "第三版：Java 80 道",
+        "big-interview-3rd/第三版-Java_80_道.md"
+      ],
+      [
+        "第三版：MyBatis 40 道",
+        "big-interview-3rd/第三版-MyBatis_40_道.md"
+      ],
+      [
+        "第三版：Android 60 道",
+        "big-interview-3rd/第三版-Android_60_道.md"
+      ],
+      [
+        "第三版：Kafka 17 道 ",
+        "big-interview-3rd/第三版-Kafka_17_道.md"
+      ],
+      [
+        "第三版：Python 50 道",
+        "big-interview-3rd/第三版-Python_50_道.md"
+      ],
+      [
+        "第三版：SpringBoot 55 道",
+        "big-interview-3rd/第三版-SpringBoot_55_道.md"
+      ],
+      [
+        "第三版：Java 66 道",
+        "big-interview-3rd/第三版-Java_66_道.md"
+      ],
+      [
+        "第三版：React 60 道",
+        "big-interview-3rd/第三版-React_60_道.md"
+      ],
+      [
+        "第三版：JavaScript 60道",
+        "big-interview-3rd/第三版-JavaScript_60道.md"
+      ],
+      [
+        "第三版：JVM 45 道",
+        "big-interview-3rd/第三版-JVM_45_道.md"
+      ],
+      [
+        "第三版：MongoDB 24 道 ",
+        "big-interview-3rd/第三版-MongoDB_24_道.md"
+      ],
+      [
+        "第三版：MongoDB 55 道 ",
+        "big-interview-3rd/第三版-MongoDB_55_道.md"
+      ],
+      [
+        "第三版：MySQL 70 道",
+        "big-interview-3rd/第三版-MySQL_70_道.md"
+      ],
+      [
+        "第三版：SpringBoot 33 道",
+        "big-interview-3rd/第三版-SpringBoot_33_道.md"
+      ],
+      [
+        "第三版：前端 17 道",
+        "big-interview-3rd/第三版-前端_17_道.md"
+      ],
+      [
+        "第三版：Netty 35 道",
+        "big-interview-3rd/第三版-Netty_35_道.md"
+      ],
+      [
+        "第三版：Python 36 道",
+        "big-interview-3rd/第三版-Python_36_道.md"
+      ],
+      [
+        "第三版：Vue 60 道",
+        "big-interview-3rd/第三版-Vue_60_道.md"
+      ],
+      [
+        "第三版：Redis 45 道",
+        "big-interview-3rd/第三版-Redis_45_道.md"
+      ],
+      [
+        "第三版：Linux 70 道",
+        "big-interview-3rd/第三版-Linux_70_道.md"
+      ],
+      [
+        "第三版：Elasticsearch 25 道",
+        "big-interview-3rd/第三版-Elasticsearch_25_道.md"
+      ],
+      [
+        "第三版：JVM 38 道",
+        "big-interview-3rd/第三版-JVM_38_道.md"
+      ],
+      [
+        "第三版：SpringBoot 50 道",
+        "big-interview-3rd/第三版-SpringBoot_50_道.md"
+      ],
+      [
+        "第三版：SpringBoot 31 道",
+        "big-interview-3rd/第三版-SpringBoot_31_道.md"
+      ],
+      [
+        "第三版：Java 核心知识",
+        "big-interview-3rd/第三版-Java_核心知识.md"
+      ],
+      [
+        "第三版：Java 47 道",
+        "big-interview-3rd/第三版-Java_47_道.md"
+      ],
+      [
+        "第三版：大数据 40 道",
+        "big-interview-3rd/第三版-大数据_40_道.md"
+      ],
+      [
+        "第三版：Python 55 道",
+        "big-interview-3rd/第三版-Python_55_道.md"
+      ],
+      [
+        "第三版：前端 50 道",
+        "big-interview-3rd/第三版-前端_50_道.md"
+      ],
+      [
+        "第三版：大数据 80 道",
+        "big-interview-3rd/第三版-大数据_80_道.md"
+      ],
+      [
+        "第三版：Nginx 20 道 ",
+        "big-interview-3rd/第三版-Nginx_20_道.md"
+      ],
+      [
+        "第三版：JVM 18 道",
+        "big-interview-3rd/第三版-JVM_18_道.md"
+      ],
+      [
+        "第三版：Netty 17 道",
+        "big-interview-3rd/第三版-Netty_17_道.md"
+      ],
+      [
+        "第三版：SpringBoot 35 道",
+        "big-interview-3rd/第三版-SpringBoot_35_道.md"
+      ],
+      [
+        "第三版：Nginx 18 道 ",
+        "big-interview-3rd/第三版-Nginx_18_道.md"
+      ],
+      [
+        "第三版：Java 17道",
+        "big-interview-3rd/第三版-Java_17道.md"
+      ],
+      [
+        "第三版：Dubbo 32 道",
+        "big-interview-3rd/第三版-Dubbo_32_道.md"
+      ],
+      [
+        "第三版：React 45 道",
+        "big-interview-3rd/第三版-React_45_道.md"
+      ],
+      [
+        "第三版：Linux 100 道",
+        "big-interview-3rd/第三版-Linux_100_道.md"
+      ],
+      [
+        "第三版：SpringCloud 25 道",
+        "big-interview-3rd/第三版-SpringCloud_25_道.md"
+      ],
+      [
+        "第三版：Python 48 道",
+        "big-interview-3rd/第三版-Python_48_道.md"
+      ],
+      [
+        "第三版：Android 45 道",
+        "big-interview-3rd/第三版-Android_45_道.md"
+      ],
+      [
+        "第三版：Vue 23 道",
+        "big-interview-3rd/第三版-Vue_23_道.md"
+      ],
+      [
+        "第三版：HTTP 60 道",
+        "big-interview-3rd/第三版-HTTP_60_道.md"
+      ],
+      [
+        "第三版：MySQL 50 道",
+        "big-interview-3rd/第三版-MySQL_50_道.md"
+      ],
+      [
+        "第三版：并发编程 75 道",
+        "big-interview-3rd/第三版-并发编程_75_道.md"
+      ],
+      [
+        "第三版：并发编程 48 道",
+        "big-interview-3rd/第三版-并发编程_48_道.md"
+      ],
+      [
+        "第三版：JavaScript 50道",
+        "big-interview-3rd/第三版-JavaScript_50道.md"
+      ],
+      [
+        "第三版：MongoDB 45 道 ",
+        "big-interview-3rd/第三版-MongoDB_45_道.md"
+      ],
+      [
+        "第三版：Oracle 50 道",
+        "big-interview-3rd/第三版-Oracle_50_道.md"
+      ],
+      [
+        "第三版：MySQL 18道",
+        "big-interview-3rd/第三版-MySQL_18道.md"
+      ],
+      [
+        "第三版：RabbitMQ 23 道",
+        "big-interview-3rd/第三版-RabbitMQ_23_道.md"
+      ],
+      [
+        "第三版：Dubbo 30 道",
+        "big-interview-3rd/第三版-Dubbo_30_道.md"
+      ],
+      [
+        "第三版：Linux 52 道",
+        "big-interview-3rd/第三版-Linux_52_道.md"
+      ],
+      [
+        "第三版：Spring 65 道",
+        "big-interview-3rd/第三版-Spring_65_道.md"
+      ],
+      [
+        "第三版：Oracle 45 道",
+        "big-interview-3rd/第三版-Oracle_45_道.md"
+      ],
+      [
+        "第三版：MySQL 45 道",
+        "big-interview-3rd/第三版-MySQL_45_道.md"
+      ],
+      [
+        "第三版：Kafka 50 道",
+        "big-interview-3rd/第三版-Kafka_50_道.md"
+      ],
+      [
+        "第三版：Spring 70 道",
+        "big-interview-3rd/第三版-Spring_70_道.md"
+      ],
+      [
+        "第三版：HTML 80 道",
+        "big-interview-3rd/第三版-HTML_80_道.md"
+      ],
+      [
+        "第三版：React 17 道",
+        "big-interview-3rd/第三版-React_17_道.md"
+      ],
+      [
+        "第三版：ZooKeeper 23 道",
+        "big-interview-3rd/第三版-ZooKeeper_23_道.md"
+      ],
+      [
+        "第三版：JVM 32 道",
+        "big-interview-3rd/第三版-JVM_32_道.md"
+      ],
+      [
+        "第三版：JVM 77 道",
+        "big-interview-3rd/第三版-JVM_77_道.md"
+      ],
+      [
+        "第三版：Redis 35 道",
+        "big-interview-3rd/第三版-Redis_35_道.md"
+      ],
+      [
+        "第三版：Linux 45 道",
+        "big-interview-3rd/第三版-Linux_45_道.md"
+      ],
+      [
+        "第三版：Dubbo 27 道",
+        "big-interview-3rd/第三版-Dubbo_27_道.md"
+      ],
+      [
+        "第三版：SpringBoot 20 道",
+        "big-interview-3rd/第三版-SpringBoot_20_道.md"
+      ],
+      [
+        "第三版：SpringCloud 29 道",
+        "big-interview-3rd/第三版-SpringCloud_29_道.md"
+      ],
+      [
+        "第三版：Java 72 道",
+        "big-interview-3rd/第三版-Java_72_道.md"
+      ],
+      [
+        "第三版：JavaScript 24道",
+        "big-interview-3rd/第三版-JavaScript_24道.md"
+      ],
+      [
+        "第三版：ZooKeeper 38 道",
+        "big-interview-3rd/第三版-ZooKeeper_38_道.md"
+      ],
+      [
+        "第三版：JavaScript 45 道",
+        "big-interview-3rd/第三版-JavaScript_45_道.md"
+      ],
+      [
+        "第三版：ZooKeeper 40 道",
+        "big-interview-3rd/第三版-ZooKeeper_40_道.md"
+      ],
+      [
+        "第三版：Elasticsearch 34 道",
+        "big-interview-3rd/第三版-Elasticsearch_34_道.md"
+      ],
+      [
+        "第三版：SpringBoot 38",
+        "big-interview-3rd/第三版-SpringBoot_38.md"
+      ],
+      [
+        "第三版：React 35 道",
+        "big-interview-3rd/第三版-React_35_道.md"
+      ],
+      [
+        "第三版：RabbitMQ 30 道",
+        "big-interview-3rd/第三版-RabbitMQ_30_道.md"
+      ],
+      [
+        "第三版：Linux 41 道",
+        "big-interview-3rd/第三版-Linux_41_道.md"
+      ],
+      [
+        "第三版：Memcached 23 道",
+        "big-interview-3rd/第三版-Memcached_23_道.md"
+      ],
+      [
+        "第三版：Python 80 道",
+        "big-interview-3rd/第三版-Python_80_道.md"
+      ],
+      [
+        "第三版：Android 35 道",
+        "big-interview-3rd/第三版-Android_35_道.md"
+      ],
+      [
+        "第三版：前端 45 道",
+        "big-interview-3rd/第三版-前端_45_道.md"
+      ],
+      [
+        "第三版：kafka 35 道",
+        "big-interview-3rd/第三版-kafka_35_道.md"
+      ],
+      [
+        "第三版：Java 50 道",
+        "big-interview-3rd/第三版-Java_50_道.md"
+      ],
+      [
+        "第三版：Dubbo 64 道",
+        "big-interview-3rd/第三版-Dubbo_64_道.md"
+      ],
+      [
+        "第三版：并发编程 80 道",
+        "big-interview-3rd/第三版-并发编程_80_道.md"
+      ],
+      [
+        "第三版：Oracle 20 道",
+        "big-interview-3rd/第三版-Oracle_20_道.md"
+      ],
+      [
+        "第三版：Redis 50 道",
+        "big-interview-3rd/第三版-Redis_50_道.md"
+      ],
+      [
+        "第三版：JavaScript 43 道",
+        "big-interview-3rd/第三版-JavaScript_43_道.md"
+      ],
+      [
+        "第三版：HTML 18 道",
+        "big-interview-3rd/第三版-HTML_18_道.md"
+      ],
+      [
+        "第三版：Netty 20 道",
+        "big-interview-3rd/第三版-Netty_20_道.md"
+      ],
+      [
+        "第三版：Dubbo 38 道",
+        "big-interview-3rd/第三版-Dubbo_38_道.md"
+      ],
+      [
+        "第三版：前端 40 道",
+        "big-interview-3rd/第三版-前端_40_道.md"
+      ],
+      [
+        "第三版：大数据 50 道",
+        "big-interview-3rd/第三版-大数据_50_道.md"
+      ],
+      [
+        "第三版：HTML 35道",
+        "big-interview-3rd/第三版-HTML_35道.md"
+      ],
+      [
+        "第三版：MySQL 62 道",
+        "big-interview-3rd/第三版-MySQL_62_道.md"
+      ],
+      [
+        "第三版：MyBatis 10 道",
+        "big-interview-3rd/第三版-MyBatis_10_道.md"
+      ],
+      [
+        "第三版：SpringCloud 50 道",
+        "big-interview-3rd/第三版-SpringCloud_50_道.md"
+      ],
+      [
+        "第三版：JVM 50 道",
+        "big-interview-3rd/第三版-JVM_50_道.md"
+      ],
+      [
+        "第三版：Vue 37 道",
+        "big-interview-3rd/第三版-Vue_37_道.md"
+      ],
+      [
+        "第三版：大数据 76 道",
+        "big-interview-3rd/第三版-大数据_76_道.md"
+      ],
+      [
+        "第三版：Vue 35 道",
+        "big-interview-3rd/第三版-Vue_35_道.md"
+      ],
+      [
+        "第三版：Spring 55 道",
+        "big-interview-3rd/第三版-Spring_55_道.md"
+      ],
+      [
+        "第三版：Netty 25 道",
+        "big-interview-3rd/第三版-Netty_25_道.md"
+      ],
+      [
+        "第三版：HTML 20 道",
+        "big-interview-3rd/第三版-HTML_20_道.md"
+      ],
+      [
+        "第三版：MyBatis 36 道",
+        "big-interview-3rd/第三版-MyBatis_36_道.md"
+      ],
+      [
+        "第三版：Java 95 道",
+        "big-interview-3rd/第三版-Java_95_道.md"
+      ],
+      [
+        "第三版：Dubbo 19 道",
+        "big-interview-3rd/第三版-Dubbo_19_道.md"
+      ],
+      [
+        "第三版：SpringBoot 23 道",
+        "big-interview-3rd/第三版-SpringBoot_23_道.md"
+      ],
+      [
+        "第三版：Java 55 道",
+        "big-interview-3rd/第三版-Java_55_道.md"
+      ],
+      [
+        "第三版：Spring 30 道",
+        "big-interview-3rd/第三版-Spring_30_道.md"
+      ],
+      [
+        "第三版：C# 19道",
+        "big-interview-3rd/第三版-C#_19道.md"
+      ],
+      [
+        "第三版：MySQL 40 道",
+        "big-interview-3rd/第三版-MySQL_40_道.md"
+      ],
+      [
+        "第三版：SpringMVC 35 道",
+        "big-interview-3rd/第三版-SpringMVC_35_道.md"
+      ],
+      [
+        "第三版：Java 30 道",
+        "big-interview-3rd/第三版-Java_30_道.md"
+      ],
+      [
+        "第三版：Oracle 40 道",
+        "big-interview-3rd/第三版-Oracle_40_道.md"
+      ],
+      [
+        "第三版：MySQL 80 道",
+        "big-interview-3rd/第三版-MySQL_80_道.md"
+      ],
+      [
+        "第三版：SpringCloud 70 道",
+        "big-interview-3rd/第三版-SpringCloud_70_道.md"
+      ],
+      [
+        "第三版：RabbitMQ 50 道",
+        "big-interview-3rd/第三版-RabbitMQ_50_道.md"
+      ],
+      [
+        "第三版：SpringBoot 44 道",
+        "big-interview-3rd/第三版-SpringBoot_44_道.md"
+      ],
+      [
+        "第三版：JavaScript 80 道",
+        "big-interview-3rd/第三版-JavaScript_80_道.md"
+      ],
+      [
+        "第三版：前端 60 道",
+        "big-interview-3rd/第三版-前端_60_道.md"
+      ],
+      [
+        "第三版：SpringBoot 25 道",
+        "big-interview-3rd/第三版-SpringBoot_25_道.md"
+      ],
+      [
+        "第三版：Nginx 19 道 ",
+        "big-interview-3rd/第三版-Nginx_19_道.md"
+      ],
+      [
+        "第三版：Java 16 道",
+        "big-interview-3rd/第三版-Java_16_道.md"
+      ],
+      [
+        "第三版：Elasticsearch 28 道",
+        "big-interview-3rd/第三版-Elasticsearch_28_道.md"
+      ],
+      [
+        "第三版：MyBatis 14 道",
+        "big-interview-3rd/第三版-MyBatis_14_道.md"
+      ],
+      [
+        "第三版：Elasticsearch 50 道",
+        "big-interview-3rd/第三版-Elasticsearch_50_道.md"
+      ],
+      [
+        "第三版：Linux 40 道",
+        "big-interview-3rd/第三版-Linux_40_道.md"
+      ]
+    ],
+    "javainterview": [
+      [
+        "Kafka",
+        "javainterview/Kafka.md"
+      ],
+      [
+        "Java集合",
+        "javainterview/Java集合.md"
+      ],
+      [
+        "Mybatis",
+        "javainterview/Mybatis.md"
+      ],
+      [
+        "Jenkins",
+        "javainterview/Jenkins.md"
+      ],
+      [
+        "Java高并发",
+        "javainterview/Java高并发.md"
+      ],
+      [
+        "Spring",
+        "javainterview/Spring.md"
+      ],
+      [
+        "计算机组成原理",
+        "javainterview/计算机组成原理.md"
+      ],
+      [
+        "Kubernetes",
+        "javainterview/Kubernetes.md"
+      ],
+      [
+        "RabbitMQ",
+        "javainterview/RabbitMQ.md"
+      ],
+      [
+        "JavaIO",
+        "javainterview/JavaIO.md"
+      ],
+      [
+        "Dubbo",
+        "javainterview/Dubbo.md"
+      ],
+      [
+        "设计模式",
+        "javainterview/设计模式.md"
+      ],
+      [
+        "微服务",
+        "javainterview/微服务.md"
+      ],
+      [
+        "Redis",
+        "javainterview/Redis.md"
+      ],
+      [
+        "SpringBoot",
+        "javainterview/SpringBoot.md"
+      ],
+      [
+        "Nginx",
+        "javainterview/Nginx.md"
+      ],
+      [
+        "分布式",
+        "javainterview/分布式.md"
+      ],
+      [
+        "多线程",
+        "javainterview/多线程.md"
+      ],
+      [
+        "MySQL",
+        "javainterview/MySQL.md"
+      ],
+      [
+        "Netty",
+        "javainterview/Netty.md"
+      ],
+      [
+        "Linux",
+        "javainterview/Linux.md"
+      ],
+      [
+        "消息队列",
+        "javainterview/消息队列.md"
+      ],
+      [
+        "密码学",
+        "javainterview/密码学.md"
+      ],
+      [
+        "Maven",
+        "javainterview/Maven.md"
+      ],
+      [
+        "README",
+        "javainterview/README.md"
+      ],
+      [
+        "Servlet",
+        "javainterview/Servlet.md"
+      ],
+      [
+        "编译原理",
+        "javainterview/编译原理.md"
+      ],
+      [
+        "数据结构与算法",
+        "javainterview/数据结构与算法.md"
+      ],
+      [
+        "Java基础",
+        "javainterview/Java基础.md"
+      ],
+      [
+        "java8",
+        "javainterview/java8.md"
+      ],
+      [
+        "Tomcat",
+        "javainterview/Tomcat.md"
+      ],
+      [
+        "Elasticsearch",
+        "javainterview/Elasticsearch.md"
+      ],
+      [
+        "Shiro",
+        "javainterview/Shiro.md"
+      ],
+      [
+        "计算机网络",
+        "javainterview/计算机网络.md"
+      ],
+      [
+        "Docker",
+        "javainterview/Docker.md"
+      ],
+      [
+        "SpringCloud",
+        "javainterview/SpringCloud.md"
+      ],
+      [
+        "Mycat",
+        "javainterview/Mycat.md"
+      ],
+      [
+        "操作系统",
+        "javainterview/操作系统.md"
+      ],
+      [
+        "Java虚拟机",
+        "javainterview/Java虚拟机.md"
+      ],
+      [
+        "MongoDB",
+        "javainterview/MongoDB.md"
+      ],
+      [
+        "RocketMQ",
+        "javainterview/RocketMQ.md"
+      ],
+      [
+        "Zookeeper",
+        "javainterview/Zookeeper.md"
+      ]
+    ]
+  },
+  "end_time": "2026-06-22T22:32:41.902624"
+}

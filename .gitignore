@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary working directory
+.trae-cn/
+
+# Original PDF source (keep only docs/ for deployment)
+Java_Interview_Book/
+scripts/
+content/

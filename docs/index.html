@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Java 面试宝典</title>
+  <meta name="description" content="Java 面试资料集合 - 涵盖各大厂面试题、知识体系、算法与系统设计">
+  <!-- Docsify -->
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@5/lib/themes/vue.css">
+  <!-- 自定义样式 -->
+  <style>
+    :root {
+      --theme-color: #007acc;
+      --sidebar-width: 22rem;
+    }
+    .app-nav { display: none; }
+    .sidebar {
+      background: #f8f9fa;
+      border-right: 1px solid #e9ecef;
+    }
+    .sidebar ul li a {
+      font-size: 14px;
+      padding: 0.35em 1em;
+    }
+    .sidebar ul li a:hover {
+      color: var(--theme-color);
+      background: rgba(0,122,204,0.05);
+    }
+    .sidebar ul li ul li a {
+      padding-left: 2em;
+      font-size: 13px;
+    }
+    .markdown-section {
+      max-width: 1000px;
+    }
+    .markdown-section h1 {
+      font-size: 2em;
+      border-bottom: 2px solid var(--theme-color);
+      padding-bottom: 0.3em;
+    }
+    .markdown-section h2 {
+      font-size: 1.5em;
+      border-bottom: 1px solid #e9ecef;
+    }
+    .cover {
+      background: linear-gradient(to left bottom, #007acc 0%, #005a9c 100%) !important;
+    }
+    .cover-header { display: none !important; }
+    .cover-label {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      z-index: 999;
+    }
+    .cover-label a {
+      display: inline-block;
+      background: rgba(0,0,0,0.4);
+      color: #fff;
+      padding: 6px 16px;
+      border-radius: 20px;
+      font-size: 13px;
+      text-decoration: none;
+      backdrop-filter: blur(4px);
+    }
+    .cover-label a:hover { background: rgba(0,0,0,0.6); }
+  </style>
+</head>
+<body>
+  <div id="app"></div>
+  <div class="cover-label">
+    <a href="https://github.com/your-username/java-interview-book" target="_blank">⭐ GitHub</a>
+  </div>
+
+  <script>
+    window.$docsify = {
+      name: '📚 Java 面试宝典',
+      repo: '',
+      loadSidebar: true,
+      maxLevel: 4,
+      subMaxLevel: 3,
+      auto2top: true,
+      coverpage: false,
+      search: {
+        maxAge: 86400000,
+        placeholder: '搜索面试题...',
+        noData: '未找到结果',
+        depth: 4,
+      },
+      formatUpdated: '{YYYY}/{MM}/{DD} {HH}:{mm}',
+      plugins: [],
+    }
+  </script>
+  <!-- Docsify -->
+  <script src="//cdn.jsdelivr.net/npm/docsify@5/lib/docsify.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-copy-code@2"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-pagination@2"></script>
+</body>
+</html>
