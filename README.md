@@ -12,6 +12,12 @@
 - [在线文档站点](#在线文档站点)
   - [站点内容统计](#站点内容统计)
   - [目录结构](#站点目录结构)
+- [PDF 转 Markdown 教程](#pdf-转-markdown-教程)
+  - [技术选型](#技术选型)
+  - [转换步骤](#转换步骤)
+  - [图片处理](#图片处理)
+  - [目录归类策略](#目录归类策略)
+  - [注意事项](#注意事项)
 - [如何编辑已有的 Markdown 文件](#如何编辑已有的-markdown-文件)
 - [如何新增 Markdown 文件](#如何新增-markdown-文件)
 - [如何更新侧边栏导航](#如何更新侧边栏导航)
@@ -93,6 +99,161 @@ docs/                            ← 站点根目录（部署此目录）
 ├── note/                        ← Note 面试题分类（80 篇）
 └── root-pdfs/                   ← 独立面试资料（4 篇）
 ```
+
+---
+
+## PDF 转 Markdown 教程
+
+本项目使用 **PyMuPDF (fitz)** 将 PDF 面试题批量转换为 Markdown 格式，并自动整理目录层级和归类。
+
+### 技术选型
+
+| 方案 | 优点 | 缺点 | 选择理由 |
+|------|------|------|----------|
+| **PyMuPDF (fitz)** | 速度快、中文支持好、可提取图片 | 复杂排版还原度一般 | 首选：速度和中文友好度最佳 |
+| pdfplumber | 表格提取优秀 | 速度慢，不支持图片提取 | 不适合大规模处理 |
+| pdfminer.six | 布局分析强 | 速度极慢 | 408 个文件不可接受 |
+| OCR (paddleocr) | 扫描件效果好 | 极慢、资源占用高 | 仅作为备选方案 |
+
+### 转换步骤
+
+#### 1. 安装依赖
+
+```bash
+pip install pymupdf
+```
+
+#### 2. 准备转换脚本
+
+核心转换逻辑如下（完整脚本见仓库 `scripts/` 目录）：
+
+```python
+import fitz  # PyMuPDF
+import os
+import re
+import hashlib
+from pathlib import Path
+
+SOURCE_DIR = "./Java_Interview_Book"    # PDF 源目录
+OUTPUT_DIR = "./docs"                    # Markdown 输出目录
+IMAGES_DIR = "./docs/assets/images"      # 图片输出目录
+
+def convert_pdf_to_markdown(pdf_path, output_md_path, images_dir):
+    pdf_stem = Path(pdf_path).stem
+    doc = fitz.open(pdf_path)
+    md_lines = []
+
+    # YAML 前置元数据
+    md_lines.append("---")
+    md_lines.append(f"title: {pdf_stem}")
+    md_lines.append(f"source: {os.path.relpath(pdf_path, SOURCE_DIR)}")
+    md_lines.append(f"pages: {doc.page_count}")
+    md_lines.append("---")
+    md_lines.append("")
+    md_lines.append(f"# {pdf_stem}")
+    md_lines.append("")
+
+    for page_num in range(doc.page_count):
+        page = doc[page_num]
+
+        # 提取文本
+        text = page.get_text("text").strip()
+        text = re.sub(r'\n{3,}', '\n\n', text)
+
+        if text:
+            if page_num > 0:
+                md_lines.append("\n---\n")
+            md_lines.append(text)
+
+        # 提取图片
+        image_list = page.get_images(full=True)
+        for img_idx, img in enumerate(image_list):
+            xref = img[0]
+            base_image = page.parent.extract_image(xref)
+            img_bytes = base_image["image"]
+            img_ext = base_image["ext"]
+
+            # 生成唯一文件名（MD5 去重）
+            img_hash = hashlib.md5(img_bytes).hexdigest()[:8]
+            img_filename = f"{pdf_stem}_p{page_num+1}_{img_idx+1}_{img_hash}.{img_ext}"
+            img_path = os.path.join(images_dir, img_filename)
+
+            if not os.path.exists(img_path):
+                with open(img_path, "wb") as f:
+                    f.write(img_bytes)
+
+            # Markdown 图片引用
+            md_lines.append(f"\n![{pdf_stem} 第{page_num+1}页插图](../assets/images/{img_filename})")
+
+    doc.close()
+
+    # 写入 Markdown 文件
+    os.makedirs(os.path.dirname(output_md_path), exist_ok=True)
+    with open(output_md_path, "w", encoding="utf-8") as f:
+        f.write("\n".join(md_lines))
+
+    return True
+```
+
+#### 3. 批量转换
+
+```bash
+python3 convert_pdfs.py
+```
+
+脚本会自动：
+- 遍历 `Java_Interview_Book/` 下所有 PDF 文件
+- 按目录结构和文件名关键词自动归类
+- 提取文本和图片
+- 生成带 YAML 元数据的 Markdown 文件
+- 生成 `_sidebar.md` 侧边栏导航
+- 生成 `index.md` 首页
+
+### 图片处理
+
+PDF 中的图片采用以下流程处理：
+
+1. **检测**：`page.get_images(full=True)` 获取所有图片引用
+2. **提取**：`page.parent.extract_image(xref)` 获取图片二进制数据
+3. **去重**：通过 MD5 hash 避免重复存储
+4. **保存**：命名规则 `{pdf名}_p{页码}_{序号}_{hash}.{ext}`
+5. **引用**：Markdown 中插入 `![描述](../assets/images/{文件名})`
+
+### 目录归类策略
+
+采用**两层归类**策略：
+
+**第一层：按来源目录映射**
+
+| 源目录 | 目标分类 |
+|--------|----------|
+| 1658页《Java面试突击核心讲》 | `java-interview-core/` |
+| Java3y | `java3y/`（细分 interview/ebooks/mindmaps） |
+| JavaGuide | `javaguide/`（细分 java-basics/jvm/framework/...） |
+| Note | `note/`（细分 java-basics/jvm/concurrency/...） |
+| 代码随想录算法PDF | `algorithm/` |
+| 各大公司面试题库 | `company-questions/` |
+| 笔试面试真题 | `interview-questions/` |
+| 第3版互联网大厂面试题 | `big-interview-3rd/` |
+
+**第二层：按文件名关键词细化**
+
+对于内容杂乱的目录（如 Note），通过文件名关键词实现自动子分类：
+
+```python
+if "jvm" in filename → note/jvm/
+if "spring" in filename → note/framework/
+if "mysql" or "redis" in filename → note/database/
+if "kafka" or "rabbitmq" in filename → note/middleware/
+```
+
+### 注意事项
+
+1. **复杂排版还原度**：PyMuPDF 按阅读顺序提取文本，对于多栏布局、表格等复杂排版，文本顺序可能出现错乱
+2. **扫描件 PDF**：部分 PDF 为扫描件（纯图片无文字层），PyMuPDF 无法直接提取文本，需配合 OCR
+3. **字体编码**：部分 PDF 使用非标准字体编码，提取的文本可能出现字符显示异常
+4. **图片位置**：Markdown 中图片会按提取顺序顺次展示，无法还原原始排版位置
+5. **增量转换**：已转换的文件会自动跳过，新增 PDF 追加即可
 
 ---
 
