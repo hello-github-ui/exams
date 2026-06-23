@@ -1,8 +1,28 @@
-# Java 面试题库
+# Java 面试题库 & 面试宝典
 
-本仓库收录了 Java 后端开发相关的面试题，涵盖多个知名企业的真实面试经历。
+> 本仓库收录了 Java 后端开发相关的面试题，涵盖多个知名企业的真实面试经历。同时包含基于 Docsify 构建的在线文档站点，支持搜索、侧边栏导航等功能。
+
+**在线访问**: [https://hello-github-ui.github.io/exams/](https://hello-github-ui.github.io/exams/)
+
+---
 
 ## 目录
+
+- [面试题内容概览](#面试题内容概览)
+- [在线文档站点](#在线文档站点)
+  - [站点内容统计](#站点内容统计)
+  - [目录结构](#站点目录结构)
+- [如何编辑已有的 Markdown 文件](#如何编辑已有的-markdown-文件)
+- [如何新增 Markdown 文件](#如何新增-markdown-文件)
+- [如何更新侧边栏导航](#如何更新侧边栏导航)
+- [本地预览与调试](#本地预览与调试)
+- [部署指南](#部署指南)
+  - [GitHub Pages](#github-pages)
+  - [Vercel](#vercel)
+
+---
+
+## 面试题内容概览
 
 | 文件 | 来源 | 备注 |
 |------|------|------|
@@ -10,8 +30,6 @@
 | [BOSS直聘后端开发面试.md](BOSS直聘后端开发面试.md) | BOSS直聘 | 含详细答案 |
 | [招商证券Java笔试题及答案.md](招商证券Java笔试题及答案.md) | 招商证券 | 含详细答案 |
 | [招商银行Java后端面试.md](招商银行Java后端面试.md) | 招商银行 | 含详细答案 |
-
-## 面试题内容概览
 
 ### BOSS直聘后端开发面试
 
@@ -38,6 +56,221 @@
 - 并发（线程池、ConcurrentHashMap）
 - 系统设计（一致性哈希、服务交互方案）
 
+---
+
+## 在线文档站点
+
+`docs/` 目录是一个基于 [Docsify](https://docsify.js.org/) 构建的静态文档站点，包含从 PDF 转换而来的 428 篇 Markdown 文档和 14,000+ 张图片。
+
+### 站点内容统计
+
+| 指标 | 数值 |
+|------|------|
+| Markdown 文件 | 428 篇 |
+| 提取图片 | 14,122 张 |
+| 分类目录 | 32 个 |
+| 转换工具 | PyMuPDF (fitz) |
+
+### 目录结构
+
+```
+docs/                            ← 站点根目录（部署此目录）
+├── index.html                   ← Docsify 入口（站点核心）
+├── index.md                     ← 首页
+├── _sidebar.md                  ← 侧边栏导航配置
+├── .nojekyll                    ← GitHub Pages 兼容
+├── assets/
+│   ├── docsify/                 ← Docsify 本地资源（CSS/JS/插件）
+│   └── images/                  ← 从 PDF 提取的图片
+├── algorithm/                   ← 代码随想录算法（6 篇）
+├── big-interview-3rd/           ← 第3版互联网大厂面试题（155 篇）
+├── company-questions/           ← 各大公司面试题库（32 篇）
+├── interview-questions/         ← 笔试面试真题（57 篇）
+├── java-interview-core/         ← Java面试突击核心讲（3 篇）
+├── java3y/                      ← Java3y 系列（15 篇）
+├── javaguide/                   ← JavaGuide 系列（34 篇）
+├── javainterview/               ← JavaInterview 参考（42 篇）
+├── note/                        ← Note 面试题分类（80 篇）
+└── root-pdfs/                   ← 独立面试资料（4 篇）
+```
+
+---
+
+## 如何编辑已有的 Markdown 文件
+
+### 方法一：直接在 GitHub 网页编辑（推荐新手）
+
+1. 打开仓库 `https://github.com/hello-github-ui/exams`
+2. 进入 `docs/` 目录，找到要编辑的 `.md` 文件
+3. 点击文件，然后点击右上角的铅笔图标 ✏️
+4. 在线编辑 Markdown 内容
+5. 编辑完成后点击 **Commit changes**
+6. 等待 1-2 分钟，GitHub Pages 自动更新
+
+### 方法二：本地编辑（推荐）
+
+```bash
+# 1. 克隆仓库
+git clone https://github.com/hello-github-ui/exams.git
+cd exams
+
+# 2. 用你喜欢的编辑器打开 docs/ 目录下的 .md 文件
+#    推荐：VS Code、Typora、Obsidian
+code docs/note/java-basics/Java基础面试题_91道.md
+
+# 3. 编辑保存后，提交并推送
+git add docs/
+git commit -m "update: 更新Java基础面试题内容"
+git push origin master
+```
+
+### 方法三：使用 TRAE 直接编辑
+
+在 TRAE 中打开项目，直接在文件树中找到 `docs/` 目录下的 `.md` 文件进行编辑，完成后提交推送即可。
+
+---
+
+## 如何新增 Markdown 文件
+
+### 步骤 1：确定分类目录
+
+根据你的内容主题，选择合适的分类目录：
+
+| 内容主题 | 放置目录 |
+|----------|----------|
+| Java 基础、集合、异常 | `docs/note/java-basics/` |
+| JVM、内存模型、GC | `docs/note/jvm/` |
+| 多线程、并发编程 | `docs/note/concurrency/` |
+| Spring / MyBatis / Tomcat | `docs/note/framework/` |
+| MySQL / Redis / MongoDB | `docs/note/database/` |
+| Kafka / RabbitMQ / RocketMQ | `docs/note/middleware/` |
+| Dubbo / Zookeeper / 分布式 | `docs/note/distributed/` |
+| Linux / Nginx / Git | `docs/note/devops/` |
+| 设计模式 / 算法 / 网络 | `docs/note/other/` |
+| 算法专题 | `docs/algorithm/` |
+| 大厂面试题 | `docs/big-interview-3rd/` |
+| 企业面试真题 | `docs/interview-questions/company/` |
+| 公司题库 | `docs/company-questions/bank-368/` |
+
+### 步骤 2：创建 Markdown 文件
+
+在对应目录下创建 `.md` 文件，文件名使用中文或英文均可：
+
+```bash
+# 示例：新增一篇 Redis 面试题
+cat > docs/note/database/Redis集群面试题.md << 'EOF'
+---
+title: Redis集群面试题
+source: 手动编写
+created_at: 2026-06-23
+---
+
+# Redis集群面试题
+
+## 1. Redis Cluster 是什么？
+
+Redis Cluster 是 Redis 的分布式解决方案...
+
+## 2. Redis Cluster 的数据分片机制？
+
+...
+EOF
+```
+
+### 步骤 3：更新侧边栏导航
+
+编辑 `docs/_sidebar.md`，在对应分类下添加新链接：
+
+```markdown
+* **🗄 Note - 数据库**
+  * [Redis面试题_70道](note/database/Redis面试题_70道.md)
+  * [Redis集群面试题](note/database/Redis集群面试题.md)    ← 新增这一行
+```
+
+### 步骤 4：提交推送
+
+```bash
+git add docs/
+git commit -m "add: 新增Redis集群面试题"
+git push origin master
+```
+
+等待 1-2 分钟，GitHub Pages 自动更新，新文档即可在线访问。
+
+### 文件命名规范
+
+- 推荐使用中文文件名（方便识别）：`Redis集群面试题.md`
+- 特殊字符会被自动替换：`()` → `_`，`：` → `-`，空格 → `_`
+- 避免使用 `/ \ : * ? " < > |` 等系统保留字符
+
+---
+
+## 如何更新侧边栏导航
+
+侧边栏配置文件为 `docs/_sidebar.md`，格式如下：
+
+```markdown
+<!-- Java 面试宝典 - 侧边栏导航 -->
+
+* [🏠 首页](/)
+
+* **📂 分类名称**
+  * [文档标题](相对路径/文件名.md)
+  * [文档标题](相对路径/文件名.md)
+```
+
+**注意事项**：
+- 所有路径都是相对于 `docs/` 目录的
+- 分类名称用 `**粗体**` 包裹
+- 文档链接使用 Markdown 标准链接格式 `[标题](路径)`
+- 修改后需提交推送才能生效
+
+---
+
+## 本地预览与调试
+
+在推送前，可以在本地预览站点效果：
+
+```bash
+# 方法一：Python 内置 HTTP 服务器
+cd docs
+python3 -m http.server 8080
+# 然后打开 http://localhost:8080/
+
+# 方法二：Docsify 官方 CLI（需要 Node.js）
+npx docsify serve docs
+# 然后打开 http://localhost:3000
+```
+
+---
+
+## 部署指南
+
+### GitHub Pages
+
+1. 代码推送到 `master` 分支后自动部署
+2. 访问地址：`https://hello-github-ui.github.io/exams/`
+3. 如需重新配置：仓库 Settings → Pages → Branch: `master`，目录: `/docs`
+
+### Vercel
+
+1. 登录 [Vercel Dashboard](https://vercel.com/dashboard)
+2. 点击 **Add New Project** → Import `hello-github-ui/exams`
+3. 配置：
+   - **Framework Preset**: Other
+   - **Root Directory**: `docs`
+   - **Build Command**: *(留空)*
+4. 点击 **Deploy**
+
+---
+
 ## 贡献
 
-欢迎提交 Issue 或 Pull Request 补充更多面试题。
+欢迎提交 Issue 或 Pull Request 补充更多面试题。具体步骤：
+
+1. Fork 本仓库
+2. 创建分支：`git checkout -b feature/new-content`
+3. 在 `docs/` 对应目录下新增或编辑 `.md` 文件
+4. 更新 `docs/_sidebar.md` 添加导航链接
+5. 提交并推送：`git push origin feature/new-content`
+6. 创建 Pull Request

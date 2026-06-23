@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Java 面试宝典</title>
   <meta name="description" content="Java 面试资料集合 - 涵盖各大厂面试题、知识体系、算法与系统设计">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📚</text></svg>">
   <!-- Docsify 本地资源 -->
   <link rel="stylesheet" href="assets/docsify/vue.css">
   <!-- 自定义样式 -->
@@ -63,6 +64,35 @@
       backdrop-filter: blur(4px);
     }
     .cover-label a:hover { background: rgba(0,0,0,0.6); }
+
+    /* 侧边栏折叠样式 */
+    .sidebar-nav ul li p {
+      cursor: pointer;
+      user-select: none;
+      font-weight: bold;
+    }
+    .sidebar-nav ul li p .arrow {
+      display: inline-block;
+      width: 0;
+      height: 0;
+      border-left: 5px solid transparent;
+      border-right: 5px solid transparent;
+      border-top: 6px solid #666;
+      margin-right: 6px;
+      transition: transform 0.2s ease;
+      vertical-align: middle;
+    }
+    .sidebar-nav ul li p.collapsed .arrow {
+      transform: rotate(-90deg);
+    }
+    .sidebar-nav ul li ul {
+      overflow: hidden;
+      transition: max-height 0.3s ease;
+    }
+    .sidebar-nav ul li ul.collapsed {
+      max-height: 0 !important;
+      display: none;
+    }
   </style>
 </head>
 <body>
@@ -76,6 +106,10 @@
       name: '📚 Java 面试宝典',
       repo: 'hello-github-ui/exams',
       loadSidebar: true,
+      alias: {
+        '/.*/_sidebar.md': '/_sidebar.md',
+        '/.*/_navbar.md': '/_navbar.md'
+      },
       maxLevel: 4,
       subMaxLevel: 3,
       auto2top: true,
@@ -87,7 +121,31 @@
         depth: 4,
       },
       formatUpdated: '{YYYY}/{MM}/{DD} {HH}:{mm}',
-      plugins: [],
+      plugins: [
+        function (hook, vm) {
+          hook.doneEach(function () {
+            // 侧边栏折叠功能 - 默认折叠所有分类
+            var sections = document.querySelectorAll('.sidebar-nav > ul > li > p');
+            sections.forEach(function (p) {
+              var ul = p.nextElementSibling;
+              if (ul && ul.tagName === 'UL') {
+                // 添加箭头图标
+                var arrow = document.createElement('span');
+                arrow.className = 'arrow';
+                p.insertBefore(arrow, p.firstChild);
+                // 默认折叠
+                p.classList.add('collapsed');
+                ul.classList.add('collapsed');
+                // 点击切换
+                p.addEventListener('click', function () {
+                  p.classList.toggle('collapsed');
+                  ul.classList.toggle('collapsed');
+                });
+              }
+            });
+          });
+        }
+      ],
     }
   </script>
   <!-- Docsify 核心 - 本地资源 -->
